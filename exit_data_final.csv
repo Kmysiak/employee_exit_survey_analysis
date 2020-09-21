@@ -1,0 +1,703 @@
+,department,location,gender,age,type_of_employee,job_type,tenure,year_of_term,reason_of_term,promotional_opportunities,performance_recognized,feedback_offered,coaching_offered,mgmt_clear_mission,mgmt_support_me,mgmt_support_team,mgmt_clear_comm,direct_mgmt_satisfaction,job_stimulating,initiative_encouraged,skill_variety,knowledge_variety,task_variety,fair_salary,teamwork,team_support,team_comm,team_culture,job_train_satisfaction,personal_train_satisfaction,org_culture,grievances_resolution,co-worker_interaction,workplace_conditions,job_stress,work/life_balance
+0,production,USA,Female,26 - 30,part-time,machine_ops,5,2017,contract_end,3,4,4,3,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+1,purchasing,USA,,,temp,sales,9,2017,retired,4,5,5,4,4,5,4,5,5,5,4,5,4,4,4,5,4,4,5,4,4,4,4,4,5,5,4
+2,production,,,,temp,machine_tech,6,2017,retired,4,4,4,4,4,5,4,4,5,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4
+3,customer_service,South America,,,temp,service_worker,10,2017,vol_term,4,4,5,5,4,4,4,4,5,5,5,5,5,5,4,5,5,5,5,4,4,4,4,5,5,5,5
+4,production,South America,Male,41 - 45,full-time,machine_tech,10,2017,vol_term,4,5,5,5,4,5,5,4,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5
+5,customer_service,,Female,56 or older,temp,service_worker,10,2017,vol_term,3,3,3,3,3,3,3,3,3, ,3,3,3,3,4,3,3,3,3,3,3,3,3,3,2,3,2
+6,sales,USA,Male,20 or younger,part-time,sales,19,2017,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+7,marketing,South America,Male,46 - 50,full-time,managerial,20,2017,vol_term,2,3,3,3,2,4,3,4,2,4,4,2,2,3,1,4,2,1,1,4,4,1,2,4,3,2,2
+8,marketing,USA,Female,36 - 40,part-time,administrative,24,2018,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+9,marketing,Europe,Female,21 - 25,full-time,administrative,24,2017,vol_term,3,4,5,4,4,5,5,5,5,5,5,4,4,5,4,5,5,5,5,4,4,4,5,5,5,5,4
+10,marketing,USA,Female,41 - 45,part-time,administrative,22,2017,vol_term,4,3,5,4,3,4,3,4,4,3,5,2,2,4,3,5,5,5,4,5,5,2,4,5,5,5,5
+11,marketing,,Male,56 or older,part-time,administrative,22,2017,invol_term, ,5,4,5,4,5,4,4,5,5,5,4,5,5,5,4,5,4,4,5,5,4,4,5,5,4,4
+12,marketing,Europe,Male,51 - 55,full-time,executive,23,2017,invol_term,3,5,4,4,5,4,4,5,4,5,4,5,5,5,4,4,4,4,4,5,5,4,4,5,5,4,4
+13,production,,Female,31 - 35,part-time,machine_tech,3,2017,vol_term,2,3,4,1,4,4,4,4,3,2,2,1,1,1,4,4,4,4,4,3,3,3,4,4,2,4,4
+14,customer_service,South America,Female,31 - 35,part-time,service_worker,0,2017,vol_term,3,3,1,4,3,3,2,4, ,5,4,4,4,4,4,2,4,4,4,4,4,1,2,4,4,2,4
+15,purchasing,,Female,46 - 50,part-time,administrative,6,2017,vol_term, ,1, ,5,1,5,1,4,5,5,5,5,5,5,4,5,5,5,5,4,4,1,4,5,5,5,5
+16,customer_service,South America,,,temp,service_worker,7,2017,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+17,marketing,USA,Female,31 - 35,full-time,executive,24,2017,vol_term,3,3,3,4,4,4,4,4,2,2,2,2,2,2,2,4,2,4,1,4,3,1,3,2,2,3,3
+18,marketing,,,,temp,professional,15,2017,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+19,marketing,Europe,,,temp,sales,5,2017,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+20,sales,USA,,,temp,sales,6,2017,vol_term,1,3,3,1,3,4, ,2,3,2,1,1,1,1,1,4,4,1,3,1,1,2,3,1,4,3,4
+21,production,,,,temp,machine_tech,12,2017,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+22,customer_service,,Male,26 - 30,part-time,service_worker,15,2017,vol_term,1,3,4,4,1,4,4,4,5,5,5,5,5,5,1,5,5,5,5,4,4,2,4,5,5,3,2
+23,production,,Female,26 - 30,temp,machine_ops,19,2017,vol_term,3,3,4,3,4,3,3,3,5,4,4,4,4,4,3,5,4,4,5,3,3,4,3,4,5,4,4
+24,purchasing,Europe,Female,31 - 35,part-time,professional,1,2017,vol_term,3,2,2,3,4,3,3,2,3,4,4,4,4,4,4,5,4,4,2,4,4,2,3,4,4,2,2
+25,purchasing,USA,Female,41 - 45,part-time,professional,24,2017,contract_end,4,4,4,5,4,5,5,3,4,5,5,4,4,5,3,4,4,3,4,5,5,4,4,5,3,3,3
+26,purchasing,South America,,,,managerial,7,2017,vol_term,1,1,1, ,1,1,1,4,1,3,4,4,4,4,1,4,2,1,1,3,2,1,1,3,5,4,4
+27,customer_service,,Male,56 or older,part-time,service_worker,19,2017,vol_term,3,4,5,4,4,4,4,4,5,4,4,2,2,4,4,4,4,4,5,4,4,3,4,4,5,4,4
+28,customer_service,USA,,,,service_worker,7,2017,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+29,production,,Female,31 - 35,part-time,machine_ops,17,2017,vol_term,2,5,3,3,4,5,4,4,4,4,2,2,2,2,5,4,4,4,4,3,3,3,4,3,1,3,3
+30,purchasing,,,,,administrative,13,2017,contract_end,3,3,4,3,4,4,4,4,2,4,4,4,4,4,2,4,4,4,4,4,4,4,3,4,4,4,4
+31,purchasing,South America,Female,26 - 30,part-time,professional,12,2017,contract_end,4,4,4,4,5,5,5,4,5,5,5,4,4,4,5,5,5,5,5,5,5,5,5,5,5,4,4
+32,purchasing,,Female,46 - 50,part-time,administrative,1,2017,vol_term,3,4,3,3,4,3,4,4,3,3,3,2,2,3,2,4,5,4,4,4,4,3,2,4,4,4,3
+33,purchasing,USA,,,,professional,10,2017,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+34,customer_service,,Male,56 or older,full-time,service_worker,15,2017,retired,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3, ,4,4,4,4
+35,production,,Female,56 or older,part-time,machine_ops,12,2017,retired, ,1,3,4,4,3,3,4,3,5,4,4,4,4,2,5,4,4,3,4,4,2,3,4,4,4,3
+36,R&D,,,,temp,administrative,2,2017,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+37,sales,South America,,,temp,sales,14,2017,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+38,production,,,,temp,machine_ops,20,2017,invol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+39,production,South America,,,temp,machine_tech,3,2017,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+40,production,South America,Female,26 - 30,part-time,machine_tech,17,2017,vol_term,2, , , ,2,2, , , , , , , , ,3, , , , ,2,2, ,2, , , , 
+41,R&D,USA,Female,36 - 40,full-time,professional,17,2017,vol_term,3,2, ,3,2,3,3,2,3,1,1,1,1,1, ,1,1, ,3,1,3,3,1,1,2,1,1
+42,sales,,Male,31 - 35,full-time,sales,11,2018,vol_term, ,2,3, ,4,3,2, , , , , , , ,2, , , , ,3,2, , , ,4, ,4
+43,production,,Male,56 or older,full-time,machine_ops,7,2018,contract_end,4,2,4,4,3,2,1,2,3,4,4,3,3,3,2,5,5,4,4,4,5, , ,4,4,4,4
+44,customer_service,Europe,Male,36 - 40,full-time,service_worker,22,2018,contract_end,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+45,R&D,,Male,51 - 55,full-time,executive,24,2018,vol_term,1,2, , ,3,4,4,4,4,4,4,2,4, ,1,4,3, , ,2,3, , ,4, , , 
+46,sales,USA,Female,56 or older,part-time,sales,1,2018,vol_term,4,3,3,3,3,3,3,3,3,5,3,4, ,4,4,5,4, , ,3,3, , ,3,4,4,2
+47,customer_service,USA,Male,31 - 35,full-time,service_worker,6,2018,vol_term,3,3,1,2,2,2,2,1,2,5,2,2,2,4,3,2,1,1,2,2,2,2,3,2,2,5,3
+48,customer_service,Europe,Female,31 - 35,part-time,service_worker,2,2018,transfer,3,2,5, ,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,4,4,3,5
+49,R&D,USA,Male,56 or older,full-time,managerial,1,2018,vol_term,3,4,4,4,4,5,4,5,4,5,5,5,4,4,2,5,4,5,5,5,5,3,4,5,2,5,3
+50,customer_service,South America,,,temp,service_worker,15,2018,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+51,production,South America,,,temp,machine_tech,17,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+52,R&D,USA,Female,41 - 45,full-time,managerial,4,2018,vol_term,2,4,3,2,4,4,4,2,2,4,4,3,3,2,2,4,2,4,4,4,3,3,4,4,5,4,4
+53,R&D,South America,,,,managerial,10,2018,vol_term, , , , , , , , , , , , , , , , , ,5, , , , , , , , , 
+54,production,,,,,machine_tech,20,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+55,sales,Europe,Female,31 - 35,part-time,sales,13,2018,vol_term,4,4,5,5,4,4,4,4,5,5,5,5,5,5,4,5,5, ,5,4,4,3,4,5,5,5,5
+56,R&D,South America,Female,26 - 30,part-time,administrative,23,2018,vol_term,4,4,4,4,4,4,4,4,4,2,2,4,4,4,2,4,4,4, ,4,4, , ,4,4,4,4
+57,sales,Europe,Female,26 - 30,full-time,managerial,21,2018,contract_end,2,1,1,4,3,1,2,1,2,4,3,4,4,3,2,5,4,2,3,4,3,3,2,3,2,4,3
+58,sales,South America,Female,56 or older,full-time,managerial,8,2018,vol_term,1,1,2,1,2,1,1,1,2,1,1,1,1,1,4,5,5,5,2,1, ,2,4,5,4,5,1
+59,R&D,Europe,,,full-time,managerial,8,2018,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+60,R&D,,Female,56 or older,full-time,managerial,6,2018,retired,5,5,4,4,4,5,5,5,4,4,4,4,4,4,5,4,4,4,4,5,5,5, ,4,4,4,4
+61,R&D,South America,Male,26 - 30,full-time,managerial,5,2018,contract_end,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+62,R&D,South America,Female,51 - 55,full-time,managerial,20,2018,contract_end,4,2,4,4,4,4,4,4,4,5,5, , ,5,2,4,4,4,4,5,4,4, ,5,4,5,5
+63,R&D,,Male,51 - 55,full-time,managerial,18,2018,vol_term,5,4,4,4,4,4,5,4,4,4,5, , ,4,5,4,4,4,4,5,5, , ,5,3,4,4
+64,sales,,Male,46 - 50,full-time,managerial,3,2018,vol_term,3,2,1,4,3,2,2,3,2,5,1,3,3,3,4,5,3,3,1,3,3,1,1,3,3,4,4
+65,production,Europe,Female,21 - 25,full-time,machine_tech,23,2018,vol_term,3,5,5,3,5,5,5,5,5,3,3,2,3,3,3,3,5,4,1,4,3,4,5,4,5,3,5
+66,customer_service,,Female,31 - 35,part-time,service_worker,7,2018,vol_term,5,5,4,2,5,4,4,4,4,4,3,4,4,4,5,4,4,4,4,5,5,4,2,4,5,4,5
+67,sales,USA,Female,31 - 35,part-time,sales,1,2018,contract_end,5,5,5,4,4,5,4,4,5,5,5,5,5,4,4,5,4,4,4,4,5,4,5,5,4,4,5
+68,customer_service,South America,,,,service_worker,9,2018,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+69,sales,USA,Male,51 - 55,full-time,sales,19,2018,vol_term,3,3,5,3,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,3,4,5,3,4,5,4,4
+70,R&D,USA,Female,51 - 55,full-time,administrative,4,2018,transfer, , ,1,3, , , , ,1,3,3,2,2,3, ,5,5,5,1, , , , ,5,1,5,4
+71,sales,USA,Female,36 - 40,full-time,sales,14,2018,vol_term,1,2,4,3,2,2,2,3,4,5,3,2,2,4,2,4,4,4,4,4,3,1,2,4,3,3,3
+72,R&D,USA,Female,51 - 55,full-time,managerial,23,2018,vol_term,2,2,2,4,4,4,2,3,4,5,5,4,4,4,4,4,3,4,3,2,2,2,2,5,4,2,2
+73,customer_service,USA,Female,41 - 45,temp,service_worker,20,2018,contract_end,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+74,R&D,,Female,20 or younger,part-time,administrative,20,2018,vol_term,2,4,3,1,4,3,3,2,2,3,4,1,1,1,2,4,4,1,1,4,2,2,1,3,1,4,3
+75,production,USA,,,,machine_ops,18,2018,contract_end,3,3,4,3,4,4,4,4,4,4,5,4,3,3,4,4,5,4,3,4,4,4,3,5,4,3,4
+76,customer_service,South America,Female,51 - 55,part-time,service_worker,11,2018,transfer,3,2,5,4,4,4,5,4,4,5,5,5,5,5,2,5,5,4,4,4,4,2,2,5,4,2,1
+77,production,South America,Female,51 - 55,part-time,machine_tech,10,2018,invol_term,1,1,2,1,4,2,2,1,1,4,4,2,2,4,4,4,4,2,1,4,1,1,2,4,4,4,1
+78,production,South America,Female,31 - 35,part-time,machine_ops,24,2018,transfer,3,4,5, ,4,5,5,4,4,2,2,2,2,2,4,5,3,3,4,2,2,4,4,1,3,4,4
+79,customer_service,,Male,41 - 45,temp,service_worker,18,2018,vol_term,1,2,2,4,3,3,3,3,2,2,2,1,1,1,1,4,3,4,4,3,1,3,2,3,2,4,3
+80,sales,USA,Female,46 - 50,full-time,sales,20,2018,vol_term,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+81,R&D,,Male,41 - 45,part-time,administrative,7,2018,vol_term,4,3,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,2,3,4,2,4,4,3
+82,R&D,,Female,41 - 45,full-time,professional,4,2018,vol_term,5,3,5,5,4,4,4,4,5,5,5,5,5,5,3,4,5,5,5,5,5,4,4,5,5,5,5
+83,sales,South America,Female,20 or younger,temp,sales,5,2018,contract_end,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4
+84,sales,,Female,56 or older,temp,sales,13,2018,vol_term, ,2,4,4, ,3,3,5,5,4,3,4,4,4,3,5,5,4,4,4,4,3,4,4,4,3,3
+85,customer_service,,Female,26 - 30,full-time,service_worker,9,2018,vol_term,1,2,1,2,3,2,4,4,2,2,4,2,2,2,2,4,4,3,2,2,2,3,2,4,3,4,3
+86,customer_service,,Female,41 - 45,part-time,service_worker,9,2018,vol_term,1,1,1,4,3,1,2,1,1,5,4,1,1,5,4,4,1,1,1,1,2,1,1,5,5,1,1
+87,sales,Europe,,,,sales,9,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+88,sales,Europe,Female,31 - 35,temp,sales,18,2018,vol_term,4,5,5,2,4,5,5,4,5,4,4,4,4,3,4,5,5,5,5,4,3,3,4,4,5,4,4
+89,R&D,USA,Female,41 - 45,part-time,administrative,18,2018,vol_term,1,3,5,2,4,4,4,4,5,2,4,1,2,3,2,5,4,5,5,2,3,3,3,3,5,4,4
+90,production,USA,,,,machine_tech,20,,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+91,customer_service,,,,,service_worker,13,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+92,R&D,USA,Female,31 - 35,full-time,administrative,20,2018,vol_term,2,4,5, ,3,3,3,4,4,4,4,2,2,3,2,4,4,4,4,4,3,2,4,4,4,4,4
+93,info_technology,USA,Male,56 or older,full-time,professional,5,,vol_term,5,4,4,4,3,4,4,2,3,4,5,5,5,4,3,4,5,4,3,2,4,3,4,4,3,3,3
+94,production,Europe,,,,machine_tech,11,2017,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+95,info_technology,South America,Male,51 - 55,temp,administrative,16,2018,contract_end,3,3,4,4,5,5,5,5,4,5,5,4,4,4,4,3,3,4,2,2, ,3,4,4,4,4,4
+96,info_technology,South America,Female,31 - 35,part-time,administrative,19,2018,vol_term,2,2,4,1,5,2,3,2,5,2,3,1,1,1,3,5,4,1,1,2,2,1,1,2,1,4,4
+97,info_technology,Europe,,,,professional,19,2017,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+98,production,USA,Male,21 - 25,temp,machine_ops,23,2018,vol_term,1,3,2, ,3,4,5,2,2,1,2,1,4,1,4,5,4,4,4,2,1,4,3,1,5,4,5
+99,sales,,Female,56 or older,part-time,sales,2,2018,retired,4,4,5,5,4,4,4,4,5,5,5,5,5,5,3,5,5,5,4,4, ,4,4,5,4,4,4
+100,info_technology,,Female,46 - 50,full-time,professional,5,2017,vol_term,1,1,2,4,1,2,1,1,2,4,4,3,3,3,1,5,5,4,1,4,2,1,1,4,2,2,2
+101,customer_service,USA,,,,service_worker,1,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+102,info_technology,USA,,,,managerial,19,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+103,info_technology,,Female,36 - 40,part-time,professional,4,2018,vol_term,2,1,3,5,2,2,4,1,2,5,5,4,4,5,1,2,1,1,1,2,2,1,1,5,3,4,4
+104,customer_service,Europe,Female,36 - 40,full-time,service_worker,10,,vol_term,3,4,3,4,4,4,4,3,4,3,4,4,4,3,3,4,4,2,3,4,4,3,3,4,3,4,3
+105,sales,USA,Male,41 - 45,full-time,sales,20,2018,vol_term,4,4,3,3,5,4,4,4,4,2,3,2,2,2,3,4,4,3,3,2,2,3,3,4,4,4,4
+106,sales,,Female,51 - 55,part-time,sales,16,2018,invol_term,4,5,4,4,4,5,5,5,5,5,5,5,5,5,4,5,5,4,4,4,4,4, ,5,5,5,5
+107,customer_service,,Male,36 - 40,temp,service_worker,22,2018,vol_term,4,4,3,4,4,4,2,4,4,4,4,3,2,4,4,4,4,4,2,3,3,1, ,4,4,3,2
+108,info_technology,South America,Male,41 - 45,part-time,administrative,18,2018,contract_end,2,1,2,1,3,4,3,4,3,1,1,1,1,1,2,1,2,2,1,4,4,2,2,3,4,4,4
+109,info_technology,,Female,26 - 30,part-time,administrative,23,2017,vol_term,4,4,5,4,4,4,4,1,5,5,5,4,4,4,4,5,4,5,5,3,4,3,5,5,5,4,5
+110,customer_service,USA,,,part-time,service_worker,0,2017,transfer, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+111,customer_service,Europe,,,part-time,service_worker,9,2018,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+112,info_technology,,,,part-time,administrative,9,2017,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+113,customer_service,,,,part-time,service_worker,23,,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+114,info_technology,,Female,26 - 30,full-time,managerial,10,2017,vol_term,4,2,5,2,3,5,4,4,3,3,4,2,4,4,2,5,3,3,1,4,4,2,2,4,1,2,5
+115,info_technology,South America,Male,21 - 25,temp,professional,11,2017,contract_end,1,2,4,4,2,3,2,2,1,3,4,3,4,4,1,4,1,1,1,1,1,1,3,4,4,2,3
+116,info_technology,USA,Male,56 or older,full-time,managerial,8,2017,vol_term,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4
+117,info_technology,USA,Female,41 - 45,part-time,administrative,19,2017,contract_end, ,4,5, ,4,5,4,4,4,4,4, , , ,4,4,4,4,4, , ,4, ,4,4,4,5
+118,info_technology,,Male,41 - 45,part-time,professional,1,2017,vol_term,3,3,3,3,3,3,3,2,3,4,4,4,4,3,1,4,3,3,3,4,3,3,3,4,3,3,3
+119,sales,USA,Female,31 - 35,part-time,sales,7,2017,vol_term,3,5,4,4,5,5,5,4,5,4,4,4,4,4,4,5,4,4,5,4,4,5,5,4,4,4,4
+120,production,USA,Female,36 - 40,temp,machine_tech,0,2017,contract_end,4,4,5,5,2,3,3,4,2,5,5,5,5,5,4,5,5,5,2,4,4,3,3,5,5,5,5
+121,info_technology,,Male,46 - 50,full-time,managerial,6,2017,vol_term,2,4,4,3,4,4,4,4,3,4,5,3,4,4,4,4,3,3,3,3,3,3,3,4,2,2,2
+122,sales,Europe,Female,26 - 30,full-time,sales,21,2017,vol_term,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4
+123,info_technology,South America,Female,56 or older,full-time,professional,10,2017,transfer,3,5,5,4,5,4,4,3,5,5,5,5,5,5,5,5,4,5,5,4,5,5,4,5,3,4,2
+124,sales,South America,Male,51 - 55,part-time,sales,1,2017,vol_term,3,3,1,3,2,2,4,4,2,4,4,1,1,2,4,5,4,4,4,4,2,2,1,4,2,4,4
+125,info_technology,South America,Male,51 - 55,part-time,professional,12,2017,vol_term,3,3,1,3,2,2,4,4,2,4,4,1,1,2,4,5,4,4,4,4,1,2,1,4,2,4,4
+126,production,South America,Male,51 - 55,part-time,machine_tech,11,2017,vol_term,3,3,1,3,2,2,4,4,2,4,4,1,1,2,4,5,4,4,4,4,1,2,1,4,2,4,4
+127,sales,Europe,Female,46 - 50,full-time,sales,13,2017,invol_term,2, ,5,2,5,5,4,3,5,3,2,5,3,2,1,4, , ,1,4,3,2,1,1,4,1, 
+128,production,,Female,46 - 50,temp,machine_ops,3,2017,vol_term,2,4,5,4,4,4,2,1,5,4,4,4,4,4,4,5,4,5,4,4,4,2,3,4,4,4,4
+129,production,USA,Female,21 - 25,part-time,machine_ops,8,2017,vol_term,4,3,4,4,4,4,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+130,production,USA,,,,machine_ops,7,2017,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+131,info_technology,,Female,41 - 45,part-time,administrative,22,2017,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5, ,5
+132,info_technology,,Female,51 - 55,part-time,administrative,22,2017,vol_term,5,5,5, ,4,5, ,5,5, ,5,5,5, ,5,5,5,5, ,5,5, ,5,5,5, ,3
+133,sales,,Female,36 - 40,part-time,sales,10,2017,vol_term,2,2,4,2,3,2,2,1,5,5,4,2,4,4,4,5,4,4,4,2,2,2,2,4,4,4,2
+134,production,,Female,51 - 55,part-time,machine_ops,17,2017,vol_term,1,1,1,1,1,1,1,1,1,4,1,2,2,4,2,4,4,4,1,4,1,1,1,3,3,4,1
+135,sales,USA,,,full-time,sales,21,,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+136,info_technology,,Male,46 - 50,full-time,administrative,7,2017,vol_term,5,5,5,5,5,5,4,3,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5
+137,info_technology,,Male,21 - 25,full-time,managerial,4,2017,vol_term,2,4,4,4,2,4,4,4,4,5,4,4,4,2,3,5,4,4,4,4,3,3,4,4,4,4,4
+138,sales,Canada,,,full-time,sales,19,2017,vol_term,3,2, , ,3,3, , , , , , , , ,4, , , , ,3,3, , , , , , 
+139,info_technology,Europe,Female,51 - 55,full-time,professional,8,2017,transfer,2,2,2,4,2,2,2,2,4,4,2,4,4,4,2,4,4,4,3,4,4,2,3,2,4,4,4
+140,info_technology,USA,Female,41 - 45,part-time,administrative,18,2017,contract_end, , , , , , , ,5, , , , , , , , , , , , , , , , , ,5, 
+141,info_technology,Europe,Female,51 - 55,full-time,professional,3,2017,retired,3,3,3,4,3,3,4,4,3,4,4,4,4,4,4,4,3,4,4,3,4,2,3,4,4,2,3
+142,sales,Europe,Female,31 - 35,temp,sales,2,2017,contract_end,3,4,2,1,4,4,4,4,3,3,4,1,1,3,2,3,3,3,1,4,3,2,4,4,1,5,1
+143,info_technology,South America,Male,56 or older,full-time,professional,7,2017,retired,3,2,2,2,3,2,1,3,2,2,1,2,2,3,3,4,3,2,1, ,1,1,3,3,2,3,3
+144,info_technology,Europe,,,full-time,professional,6,2017,transfer, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+145,info_technology,South America,Male,31 - 35,part-time,administrative,22,2018,vol_term,3,3,4,4,3,3,3,2,2,2,4,2,2,2,2,4,4,2,2,2,2,2,2,4,4,4,4
+146,info_technology,Europe,Male,31 - 35,part-time,professional,12,2018,contract_end,4,4,4,4,5,5,5,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4
+147,customer_service,Canada,Male,56 or older,full-time,service_worker,23,2018,retired,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,3,4,3
+148,info_technology,Europe,Female,26 - 30,part-time,administrative,7,2018,vol_term,4,3,4,2,3,4,4,3,4,3,4,1,1,3,4,4,4,3,3,4,4,2,4,4,3,4,4
+149,production,,Female,51 - 55,full-time,machine_tech,10,2018,vol_term,5,4,3,5,3,5,5,5,4,3,4,3,3,3,3,3,4,3,3,5,5,3,3,4,5,4,3
+150,info_technology,Europe,Female,36 - 40,part-time,administrative,20,2018,vol_term,3,4,4,5,3,3,4,4,4,4,4,5,5,5,4,4,5,4,3,4,4,3,4,5,5,3,4
+151,production,USA,Male,56 or older,temp,machine_tech,9,2018,vol_term, , ,5, ,5,5,5, ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2,2
+152,info_technology,Canada,Female,21 - 25,part-time,administrative,6,2018,vol_term,2,4,5,4,5,5,5,5,5,4,4,4,4,4,3,5,5,5,5,4,4,5,5,5,5,5,5
+153,production,Canada,Male,20 or younger,part-time,machine_ops,13,2018,vol_term,5,5,5,4,5,5,5,5,5,5,5,4,5,5,5,5,4,3,4,5,5,5,5,5,5,5,4
+154,info_technology,South America,Female,51 - 55,part-time,administrative,9,2018,contract_end,4,3,5,5,3,4,4,2,4,5,5,5,5,4,2,5,4,3,1,4,3,1,3,5,5,5,5
+155,production,USA,Male,56 or older,full-time,machine_tech,17,2018,retired,1,1,3,1,1,2,2,1,1,5,1,2,2,3,4,5,4,1,1,3,1,2,2,4,4,1,1
+156,sales,,,,full-time,sales,3,2018,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+157,info_technology,USA,Male,56 or older,full-time,professional,18,2018,retired,4,2,3,2,1,4,4,3,2,4,4,2,4,4,4,5,4,5,4,4,4,3,4,4,4,3,4
+158,customer_service,South America,Female,56 or older,full-time,service_worker,18,2018,retired,4,4,4,5,4,4,3,2,4,5,4,5,5,5,4,5,5,4,4,4,4, ,4,5,5,4,4
+159,production,USA,Female,21 - 25,temp,machine_ops,24,2018,vol_term,1,3,3,2,3,3,2,1,4,4,2,1,2,3,4,5,5,5,3,4,5,3,1,4,3,4,1
+160,info_technology,South America,Female,41 - 45,part-time,professional,24,2018,vol_term,3,2,5,4,4,4,4,4,3,3,4,3,4,3,2,4,3,4,4,4,4,4,4,4,2,1,1
+161,production,South America,Female,20 or younger,part-time,machine_tech,0,2018,vol_term,3,3,5,4,3,4,4,4,4,4,5,4,4,4,4,5,5,5,5,3,4,4, ,5,5,4,5
+162,sales,,Female,21 - 25,temp,sales,16,2018,contract_end,1,3,5,4,3,3,3,3,2,5,5,5,5,5,5,4,4,2,3,4,3,3,4,5,5,5,5
+163,sales,USA,Female,41 - 45,part-time,sales,5,2018,contract_end,2,4,4,3,4,3,3,2,2,4,3,2,2,3,5,4,4,2,2,2,2,2,4,2,1,4,4
+164,production,Europe,Female,51 - 55,part-time,machine_tech,8,2018,vol_term,3,1,1,1,2,1,1,1,2,4,1,1,1,4,4,4,4,4,2,4,3,1,1,4,4,4,4
+165,sales,USA,Female,51 - 55,temp,sales,5,2018,contract_end,1,1,1,1,1,1,1,2,1,4,4,4,4,4,1,4,1,1,1,1,1,1,1,1,4,1,1
+166,sales,Europe,Male,56 or older,full-time,sales,15,2018,retired,2,3,5,4,2,2,2,2,5,5,5,5,5,5,2,5,5,5,5,4,4,2,3,5,4,4,4
+167,sales,South America,Female,41 - 45,temp,sales,17,2018,vol_term,3,3,5, ,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5
+168,sales,USA,Female,51 - 55,part-time,sales,3,2018,vol_term, ,5,5, , ,5,5,4,5,4,4,4,5,4,4,5, ,5,5, , ,4,5,4,3,1,1
+169,sales,Europe,,,,sales,13,2018,vol_term, , , , ,4, , , , , , , , , , , , , , , , , , , , , , 
+170,sales,Europe,Male,56 or older,full-time,sales,8,2018,retired,4,4,4,5,4,4,4,4,5,4,4,4,4,5,4,4,4,4,4,4,4,4,5,4,4,4,4
+171,customer_service,South America,Female,36 - 40,full-time,service_worker,8,2018,contract_end,4,4,4,4,3,4,4,2,4,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,4,4,4
+172,sales,,Female,46 - 50,part-time,sales,23,2018,vol_term,3,4,5,4,4,5,4,4,4,5,5,4,4,5,4,5,3,4,3,5,4,3,3,4,3,4,4
+173,production,USA,,,full-time,machine_ops,9,2018,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+174,sales,,Female,21 - 25,full-time,sales,5,2018,vol_term,3,2,5,5,1,3,3,3,5,5,5,5,5,4,1,5,5,5,5,3,3,3,3,5,5,4,4
+175,info_technology,South America,Male,21 - 25,part-time,professional,3,2018,vol_term,2,5,4,5,5,5,5,5,5,3,5,5,5,3,3,5,5,5,5, ,4,4,5,5,4,5,5
+176,info_technology,USA,Female,56 or older,part-time,professional,14,2018,retired,3,2,5,4,3,5,5,4,5,5,4,5,5,4,4,5,5,4,4,4,2,3,2,4,2,4,2
+177,info_technology,USA,Female,41 - 45,part-time,administrative,8,2018,contract_end,4,5,4,3,4,5,5,5,4,3,4,3,3,4,4,4,5,5,5,5,4,4,5,4,4,4,4
+178,production,South America,Female,21 - 25,part-time,machine_ops,12,2018,vol_term,5,4,3,2,4,4,4,4,3,3,3,3,3,4,4,5,4,2,4,5,5,3,3,5,5,5,5
+179,production,Europe,Female,31 - 35,part-time,machine_tech,5,2018,vol_term,3,3,4,5,4,4,3,4,4,5,5,5,5,5,2,5,4,3,4,5,5, ,4,5,3,3,4
+180,customer_service,USA,Female,21 - 25,full-time,service_worker,0,2018,vol_term,1,1,2,2,4,3,3,4,3,2,3,2,2,1,3,4,4,3,3,3,3,3,3,4,4,3,3
+181,customer_service,South America,Male,41 - 45,full-time,service_worker,2,2018,vol_term,2,3,3,4,3,2,3,3,2,4,4,2,2,3,3,4,3,2,2,3,2,2,1,4,4,4,2
+182,sales,,Female,56 or older,part-time,sales,6,2018,invol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4, ,5,5,5,5
+183,sales,Europe,Female,46 - 50,part-time,sales,17,2018,vol_term, ,4,3,3,4,1,1,3,1,2,1,1,1,1,3,4, ,1,1,1,1,3,3,3,3,4,4
+184,production,,Female,26 - 30,part-time,machine_tech,12,2018,vol_term,2,1,1,4,3,1,1,3,1,4,4,2,4,4,1,5,2,2,2,4,4,2,1,4,4,1,1
+185,info_technology,,Male,46 - 50,part-time,professional,0,2018,vol_term, ,2,2,4,1,2,2,2,1,4,3,2,2,4,1,4,2,2,2,3,4,2,3,5,3,5,4
+186,production,South America,Male,46 - 50,full-time,machine_tech,15,2018,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,4,5,5,4,5
+187,human_resources,USA,Female,56 or older,full-time,managerial,10,2018,invol_term,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4, ,4,4,4,4
+188,production,Canada,Female,56 or older,part-time,machine_ops,9,2018,retired, ,4,4,4,4,4,4,4,5,4,4,4,4,4, ,5,4,4,4,4,4,4,4,4,4,4,4
+189,sales,Canada,Female,46 - 50,temp,sales,4,2018,vol_term,3,3,4,3,3,3,3,3,2,4,4,4,4,4,3,3,4,4,2,3,3,2,3,4,4,2,2
+190,human_resources,,Female,21 - 25,part-time,administrative,9,2018,contract_end,4,3,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,4,4,4,4
+191,human_resources,,Female,41 - 45,part-time,administrative,21,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+192,human_resources,South America,Female,36 - 40,full-time,professional,0,2018,vol_term, ,4,4, ,4,4,4,4,4,1,4,1,1,1,2,4,4,4,4,3,4,4, ,2,4,5,5
+193,human_resources,Europe,Male,36 - 40,full-time,managerial,0,2018,vol_term,5,1,4,3,4,5,5,4,4,4,5,5,5,5,1,4,5,5,5,5,5,4,4,5,4,4,4
+194,production,Canada,Male,26 - 30,part-time,machine_ops,11,2018,vol_term,3,4,4,4,4,4,4,4,4,1,3,2,4,3,3,5,4,4,4,4,4,3,3,4,1,5,4
+195,human_resources,USA,Female,51 - 55,full-time,managerial,23,2018,retired,4,2,3,2,4,2,2,4,2,4,4,4,2,4,2,4,4,3,3,2,2,1,3,4,2,4,2
+196,human_resources,,Male,41 - 45,temp,administrative,0,2018,vol_term,2,1,3,2,2,3,1,2,3,4,4,3,3,4,1,3,1,2,1,4,4,1,1,3,2,4,4
+197,sales,USA,Female,41 - 45,temp,sales,7,2019,vol_term, ,3,2,1,4,4,4,3,3,4,5,4,4,3,2,5,4,2,2,1,1,2,2,2,4,3,4
+198,production,Europe,,,full-time,machine_tech,0,2019,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+199,human_resources,USA,Female,26 - 30,part-time,professional,16,2019,contract_end,4,4,5,5,4,5,4,4,5,4,5,4,4,4,4,5,4,5,4,5,4,4,4,4,5,5,4
+200,human_resources,South America,Female,21 - 25,part-time,professional,14,2019,vol_term,2,3,3,3,3,4,3,4,2,4,4,4,4,4,3,4,4,4,4,4,3,4,3,4,4,4,4
+201,production,USA,Female,26 - 30,part-time,machine_ops,19,2019,contract_end,2,3,5,1,4,3,4,4,4,3,3,3,4,4,3,4,4,4,4,3,3,3,3,4,4,4,3
+202,human_resources,USA,Female,56 or older,part-time,professional,9,2019,retired,3,4,3,3,3,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3,3,3,4,3,3,4,4
+203,human_resources,Canada,Female,41 - 45,temp,administrative,6,2019,vol_term, ,3,2,3,3,4,2,3,3,4,4,4,4,4,3,4,2,3,2,2,3,2,2,3,4,2,1
+204,production,South America,,,full-time,machine_tech,20,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+205,production,USA,,,full-time,machine_tech,23,2019,invol_term,2,1,5,4,1,3,3,3,5,3,3,5,5,5,2,5,3,5,5,1,1,2,2,3,3,4,4
+206,production,Canada,Female,56 or older,full-time,machine_ops,7,2019,invol_term,3,2,1,4,2,2,2,2,5,2,3,2,2,2,2,4,2,5,5,2,2,1,1,3,4,4,4
+207,production,USA,Female,31 - 35,part-time,machine_ops,15,2019,vol_term,3,5,5,5,5,5,5,4,5,5,5,2,2,5,2,5,5,5,5,5,5,5,5,5,4,5,5
+208,production,,Female,21 - 25,part-time,machine_tech,24,2019,vol_term,1,3,4,4,3,3,4,4,4,1,2,1,1,1,4,4,4,4,4,3,1,4,3,4,4,4,4
+209,human_resources,,Female,36 - 40,part-time,professional,7,2019,contract_end, ,4,4,3,5,4,5,4,5,5,5,5,5,5,4,5,5,5,4,5,4,4,5,5,4,3,3
+210,human_resources,Canada,Female,26 - 30,part-time,professional,11,2019,contract_end,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,3,4,4,4,4
+211,production,,Male,41 - 45,part-time,machine_tech,21,2019,vol_term,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2
+212,human_resources,Canada,Female,46 - 50,part-time,professional,10,2019,contract_end,2,2,4, ,2,3,3,4,4,4,4,4,4,4,1,4,4,4,4,3,2,2,2,4,4,2,2
+213,production,,Female,20 or younger,part-time,machine_tech,4,2019,contract_end,3,4,3,3,4,4,4,4,4,4,4,3,3,4,4,5,4,4,4,4,3,4,4,4,4,5,5
+214,production,South America,Male,51 - 55,temp,machine_tech,13,2019,contract_end,3,4,4,4,4,4,4,4,3,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4
+215,production,USA,Male,36 - 40,part-time,machine_tech,24,2019,vol_term, ,4,4,4,4,4,4,4,3,5,5,4,4,5,2,4,5,3,4,3,4,4,4,4,4,4,4
+216,human_resources,,,,,professional,7,2019,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+217,customer_service,Canada,Female,21 - 25,temp,service_worker,23,2019,vol_term,4,3,4,4,4,4,4,4,4,3,4,3,4,3,3,5,4,4,4,4,4,3,3,4,5,5,4
+218,customer_service,South America,Female,51 - 55,temp,service_worker,7,2019,invol_term, ,2,4,2,2,3,3,4,3,4,4,4,4,4,3,5,5,4,4, ,4,1, ,4,4,4,4
+219,human_resources,Canada,Female,56 or older,part-time,administrative,12,2019,invol_term,1,1,1,4,1,2,1,4,1,4,3,1,1,4,4,5,4,4,1,4,2,1,2,5,4,2,3
+220,purchasing,Canada,Female,26 - 30,part-time,professional,2,2019,vol_term,1,1,5,1,3,2,2,2,5,5,5,3,3,5,1,5,5,5,5,2,4,3,1,5,3,5,5
+221,purchasing,USA,Female,41 - 45,part-time,professional,6,2019,vol_term,1,1,1,1,4,1,1,4,1,5,5,5,1,1,1,5,5,5,5,1,1,1,1,5,2,1,1
+222,purchasing,,Female,56 or older,part-time,professional,10,2019,retired,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4
+223,sales,,Female,56 or older,full-time,sales,8,2019,retired,1,1,4,4,4,4,4,4,4,4,4, ,4,4,1,5,4,4,4,4,4,2,4,5,4,4,4
+224,purchasing,,Female,46 - 50,full-time,managerial,19,2019,vol_term, ,4,4,4, ,4,4,4,4,4,4,4,4,4,2,4,4,4,3,4,4,3,4,4,4,4,4
+225,production,Canada,Female,56 or older,part-time,machine_tech,3,2019,retired,3,4,4,4,4,4,4,3,3,4,4,4,3,4,4,4,4,4,4,3,3,3,4,4,5,4,3
+226,sales,Europe,Female,36 - 40,part-time,sales,16,2019,contract_end, ,4,4, ,4,4,4,3,4,2,2,2,2,2,4,2,2,1,1, , ,1, , ,4,5,5
+227,customer_service,,Female,36 - 40,temp,service_worker,22,2019,contract_end, ,4, ,4,5,4,4,3,5,4,3,2,2,4,4,5,4,4,4, , ,4, ,4,4,5,5
+228,sales,USA,Female,26 - 30,full-time,sales,4,2019,vol_term,4,4,5,4,4,5,4,4,4,3,4,3,3,4,4,4,4,4,4,5,4,3,4,4,3,4,4
+229,production,,Female,51 - 55,part-time,machine_tech,12,2019,vol_term,4,2,2,4,4,4,4,2,2,4,4,2,2,2,2,5,4,5,2,4,4,2,4,4,4,4,4
+230,purchasing,Europe,,,full-time,administrative,4,2019,invol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+231,purchasing,,Male,31 - 35,temp,administrative,21,2019,vol_term,3,2,5, ,2,4, ,3,4,3,5,4,4,3,2, ,3, , ,4,4,2,1,4,2,5,1
+232,customer_service,,Female,51 - 55,temp,service_worker,15,2019,invol_term,4,3,3,4,4,4,3,4,4,5,5,5,5,4,4,5,5,5,5,4,4,4,4,5,4,2,2
+233,purchasing,Europe,Female,20 or younger,part-time,administrative,3,2019,vol_term, ,3,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,3,5
+234,production,USA,,,full-time,machine_ops,10,2018,vol_term,4,4,4,3,4,4,4,3,4,4,4,2,2,4,1,4,4,4,4,4,4,3,4,4,3,4,3
+235,production,South America,Male,21 - 25,full-time,machine_ops,2,2019,vol_term,3,4,4,4,4,5,4,2,4,3,4,2,4,4,3,5,4,3,4,4,4,3,3,4,4,4,4
+236,purchasing,South America,Female,51 - 55,part-time,professional,3,2019,vol_term,5,5,5, ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2
+237,customer_service,,Female,36 - 40,part-time,service_worker,2,2019,vol_term,5,1,1,2,1,1,2,1,2,4,2,2,2,2,5,4,4,1,1,2,3,1,1,3,1,2,2
+238,sales,Canada,Female,41 - 45,part-time,sales,23,2019,vol_term,2,3,4,4,3,4,4,3,5,2,3,2,2,2,3,5,5,5,3,3,4,3,3,4,2,4,5
+239,purchasing,USA,Female,46 - 50,part-time,administrative,17,2019,contract_end,3,3,4,5,3,4,5,5,5,5,5,5,4,5,5,5,5,5,5,4,4,5,4,5,5,4,5
+240,production,Canada,Female,51 - 55,part-time,machine_ops,2,2019,vol_term,4,3,3,3,4,3,3,3,3,4,3,3,3,3,4,3,3,3,3,4,4,3,3,3,3,3,3
+241,sales,,Female,21 - 25,full-time,sales,18,2019,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+242,purchasing,South America,Female,36 - 40,part-time,administrative,7,2019,vol_term,3,2,4, ,1,3,2,1,2,5,5,5,5,5,4,5,4,3,2,4,4, , ,5,4,4,4
+243,sales,South America,,,,sales,4,2019,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+244,info_technology,USA,Female,20 or younger,part-time,administrative,13,2019,invol_term,3,3,3,3,3,3,3,4,3,3,3,3,3,3,5,4,3,3,4,5,4,3,3,4,4,5,3
+245,info_technology,South America,Female,41 - 45,part-time,administrative,18,2019,vol_term,1, ,3,3,4,4,4,4,4,2,2,1,1,2,3,4,4,4,4,3,3,3, ,3,3,4,4
+246,info_technology,USA,Female,20 or younger,part-time,administrative,0,2019,vol_term,3,1,3,3,3,3,3,1,2,1,1,2,3,3,4,1,3,4,2,2,2,1,1,3,3,3,4
+247,info_technology,Canada,Female,56 or older,temp,administrative,8,2017,contract_end, ,4,5,5,4,5,5,4,5,5,5,5,5,5,4,5,5,5,5,5,4,4,4,5,5,5,4
+248,production,Europe,Male,56 or older,part-time,machine_ops,2,2018,contract_end, ,1,4,4,1,4,4,2,4,4,4,2,2,4,4,5,5,5,4,4,4,2,4,4,2,4,4
+249,customer_service,,Female,56 or older,full-time,service_worker,18,2018,contract_end,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+250,production,Europe,Male,41 - 45,part-time,machine_tech,10,2018,invol_term,3,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4
+251,purchasing,USA,,,,managerial,2,2018,contract_end,4,4, , ,4,4, , , , , , , , ,4, , , , ,5,5, , , , , , 
+252,purchasing,USA,Female,41 - 45,temp,professional,13,2018,invol_term,1,5,5,2,5,5,5,5,5,5,5,3,3,5,5,2,2,2, ,1,2,1,2,2,5,5,5
+253,purchasing,South America,Female,41 - 45,part-time,professional,23,2018,contract_end,3,4,4, ,3,4,3,3,4,4,4,3,3,4,3,4,4,4,4,3,3,3, ,4,4,4,4
+254,production,USA,Female,21 - 25,part-time,machine_tech,17,2018,vol_term,4,4,5,3,2,4,4,2,5,4,4,4,4,3,3,5,3,5,5,3,4,3,4,4,5,4,4
+255,production,,Female,36 - 40,part-time,machine_ops,6,2018,transfer,4,4,5,1,3,5,5,1,4,5,5,3,3,4,2,5,2,2,2,3,4,1,1,4,4,4,4
+256,production,Europe,Female,51 - 55,part-time,machine_tech,6,2018,vol_term,2,4,4,3,4,4,4, ,4,4, ,4,4,4,2,4,4,3,3,4,4,4,4,4,5,5,5
+257,R&D,USA,,,,executive,17,2018,contract_end, , , , , , , , , , , , , , , ,4, , , , , , , , , ,4,4
+258,R&D,,,,,executive,8,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+259,production,USA,Female,36 - 40,part-time,machine_ops,24,2018,vol_term,4,3,4,3,3,3,3,4,3,3,3,3,3,3,4,4,3,3,1,3,4,3,3,3,3,2,3
+260,sales,Europe,Female,46 - 50,full-time,sales,0,2018,transfer,1,4,4,4,2,4,4,4,4,4,4,2,2,4,4,5,4,4,4,4,4,2,4,4,4,4,4
+261,customer_service,USA,Female,46 - 50,temp,service_worker,11,2018,contract_end,4,4,4,4,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+262,customer_service,South America,Female,56 or older,full-time,service_worker,2,2018,retired,2,4,5,4,4,4,4,4,5,5,5,5,5,5,3,5,5,4,4,4,4,4,4,5,3,4,4
+263,production,,Male,36 - 40,full-time,machine_ops,13,2018,vol_term,3,3,2,4,4,2,2,3,2,4,4,3,3,4,3,4,2,4,2,2,3,2,3,3,1,3,2
+264,R&D,,Female,51 - 55,full-time,executive,6,2019,invol_term,3,4,4,4,4,4,4,4,4, ,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4
+265,sales,USA,Female,51 - 55,full-time,sales,11,2018,invol_term,4,5,5,4,4,5,5,4,5,5,5,5,5,5,3,5,5,5,5,4,5,4,5,4,4,4,5
+266,purchasing,,Male,56 or older,full-time,managerial,8,2018,retired,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4, ,4, ,3,4,4,3,3,4,3, ,3
+267,customer_service,,Female,31 - 35,part-time,service_worker,22,2018,contract_end,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+268,info_technology,South America,Male,56 or older,full-time,administrative,19,2018,retired,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,3,4,4,4,4,4
+269,production,South America,Male,56 or older,full-time,machine_tech,0,2018,retired,4,4,5,4,5,5,5,5,5, ,5,4,4,4,4,5,5,5,4,5,5,4, ,5,5,4,4
+270,production,,Female,41 - 45,full-time,machine_tech,24,2018,vol_term,3,4,5,4,5,5,4,4,4,4,4,4,4,5,4,4,4,4,3,4,4,3,4,4,4,4,5
+271,purchasing,USA,Male,56 or older,full-time,professional,0,2018,retired,2, ,2,4, ,2,4, ,2, ,2,2,2,3,1,3,4,4,3,4,3,2,3,4,4,3,3
+272,info_technology,,Male,56 or older,full-time,administrative,24,2018,invol_term,2,3,4,4,4,4,4,4,5,5,5,5,5,5,2,5,5,5,5,4,4,4,4,5,3,4,3
+273,production,,Male,56 or older,full-time,machine_ops,3,2018,invol_term,3,2,3,4,2,1,2,1,3,4,4,3,4,4,1,3,4,1,1,3,3,1,1,3,4,3,1
+274,customer_service,,Male,46 - 50,full-time,service_worker,21,2019,vol_term,2,2,2,3,3,3,3,2,2,4,3,3,3,3,1,4,2,4,3,3,2,2,2,4,4,4,4
+275,production,USA,Male,26 - 30,part-time,machine_ops,23,2018,vol_term,4,4,4,4,4,3,4,4,4,4,4,4,3,4,3,4,4,4,4,3,4,3,4,4,4,4,4
+276,production,,,,,machine_ops,6,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+277,purchasing,Europe,Female,56 or older,part-time,professional,6,2018,vol_term,4,2,4,4,4,4,3,3,4,5,5,5,4,3,4,5,5,4,4,4,5,1,1,5,4,4,4
+278,production,,Female,51 - 55,full-time,machine_ops,23,2018,invol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5
+279,sales,Europe,,,,executive,16,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+280,sales,USA,Female,56 or older,full-time,executive,9,2018,vol_term,3,3,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,3,3,4,3,4,4
+281,production,Europe,Female,56 or older,full-time,machine_tech,7,2018,retired,1,2,2, ,5,2,2,2,2,5,5,4,4,3,1,5,3,3,2,5,5,2,3,5,2,3,4
+282,purchasing,,Female,56 or older,full-time,managerial,10,2018,retired,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+283,sales,Europe,Male,56 or older,full-time,sales,13,2018,invol_term, ,2,2,2,4,4,4,3,3,3,3,4,4,4,2,4,4,5,3,4,4,2,1,4,4,3,4
+284,customer_service,USA,Male,56 or older,full-time,service_worker,4,2018,retired, ,1,4,2,3,3,3,3,4,4,1,3,4,4,1,5,4,4,4,2,2,2,3,1,2,2,2
+285,sales,Europe,Male,56 or older,full-time,executive,13,2018,retired,1,3,4,4,4,4,4,4,4,4,3,4,4,5,4,5,4,4,4,3,3,1,2,4,5,4,4
+286,info_technology,USA,Female,51 - 55,full-time,administrative,21,2018,retired,1,2,4,2,3,3,3,3,5,5,4,2,2,4,1,5,3,2,3,4,4,2,2,4,2,5,4
+287,purchasing,USA,,,,professional,14,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+288,info_technology,,Male,46 - 50,part-time,administrative,11,2018,vol_term,1,1,4,3,1,1,2,3,1,3,3,1,1,3,1, ,1,2,3,4,1,3,1,3,5,3,5
+289,sales,Europe,Male,41 - 45,full-time,executive,20,2018,invol_term,3,4,3,2,5,4,4,4,2,4,3,1,1,1,4,3,3,2,1,4,2,2,3,4,4,2,3
+290,purchasing,Europe,,,,professional,18,,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+291,production,South America,Male,56 or older,full-time,machine_tech,23,2018,invol_term,4,4,4,4,3,4,4,3,5,5,5,5,5,5,4,5,5,4,4,5,5,3,3,5,4,5,4
+292,sales,Canada,Male,56 or older,full-time,sales,16,2018,invol_term,1,2,4,3,2,4,4,2,3,4,3,4,3,2,1,4,4,4,2,3,3,1,2,4,2,4,4
+293,purchasing,USA,Male,46 - 50,part-time,professional,18,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+294,production,Canada,Male,51 - 55,full-time,machine_ops,13,2018,vol_term,4,2,3,3,2,1,1,1,4,3,2,3,3,3,4,4,4,4,3,4,4,1,3,4,3,4,4
+295,purchasing,USA,Male,56 or older,full-time,managerial,1,2018,vol_term,3,4,5,4,4,4,4,5,5,4,5,4,4,4,4,5,5,4,4,4,5,3,4,4,2,4,4
+296,info_technology,Europe,Male,56 or older,full-time,administrative,18,2018,invol_term,4,2,4,4,3,4,3,3,3,4,4,4,4,4,2,5,5,5,3,4,4,2,1,4,4,4,4
+297,production,USA,Male,56 or older,full-time,machine_ops,2,2018,retired,3,1,2,2,2,4,2,2,4,5,4,4,2,4,1,5,4,4,4,2,2,1,2,4,2,2,2
+298,sales,Canada,Female,51 - 55,full-time,sales,9,2018,invol_term,1,2,3,3,2,3,2,3,4,2,3,2,3,3,3, ,3,4,4,1,2,1,2,4,4,4,3
+299,info_technology,Canada,Female,56 or older,full-time,administrative,19,2018,vol_term,5,5,5,5,5,4, ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5
+300,sales,South America,Female,26 - 30,part-time,sales,12,2018,transfer, ,4,4,4,3,4,4,4,4,3,4,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4
+301,production,USA,Female,46 - 50,full-time,machine_ops,6,2018,vol_term,1,1,1,1,1,1,3,1,1,3,3,1,1,2,1,2,3,3,2,3,3,1,1,3,3,3,3
+302,purchasing,Europe,Male,56 or older,full-time,managerial,12,2018,retired,4,3,5,4,3,4,4,4,5,4,4,4,4,4,3,5,4,4,4,4,4,3,4,5,5,4,4
+303,purchasing,Canada,Male,51 - 55,full-time,managerial,16,2018,vol_term,1,3,2,4,1,2,2,2,2,4,2,2,3,4,2,4, ,4,2,3,4,1,2,4, ,2,4
+304,purchasing,Europe,Male,56 or older,full-time,managerial,24,2018,retired,3,4,5,4,4,4,4,4,4,4,4,4,4,4,2,5,4,4,4,4,4,1,4,4,4,4,4
+305,purchasing,Canada,,,,managerial,18,2018,invol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+306,sales,Europe,Male,56 or older,full-time,sales,3,2018,invol_term, ,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,2,4,4
+307,customer_service,Canada,Male,51 - 55,full-time,service_worker,6,2018,vol_term,4,2,2,5,3,3,2,3,2,4,4,4,4,4,4,4,4,3,2,4,4,2,3,4,4,4,4
+308,sales,South America,,,,executive,23,2018,invol_term, ,4,3,3,4,4,4,4,4,4,4,4,4,4,3,4,4,3,3,4,4,3,3,4,3,3,3
+309,sales,USA,Male,56 or older,full-time,executive,15,2018,invol_term,2,2,3,3,4,3,3,4,4,4,4,3,3,3,2,4,4,4,4,3,3,3,3,4,3,2,2
+310,purchasing,Canada,Female,56 or older,part-time,professional,11,2018,vol_term,4,2,4,4,2,2,3,2,4,4,3,3,3,4,4,4,3,4,2,4,4,1,2,4,3,4,4
+311,customer_service,Europe,Male,56 or older,full-time,service_worker,24,2018,invol_term,1,2,4,4,3,4,4,3,4,5,5,4,4,4,4,4,4,4,4,2,4,4,1,4,4,4,4
+312,production,South America,Female,56 or older,part-time,machine_tech,12,2018,vol_term,3,1,1,1,2,1,2,1,1,1,2,1,1,4,4,5,5,1,1,4,1,1,1,5,4,5,2
+313,production,Europe,Male,51 - 55,full-time,machine_ops,3,2018,invol_term,4,1,1,4,4,4,4,3,3,5,4,4,4,4,1,5,5,5,2,4,5,3,3,5,4,4,4
+314,purchasing,South America,Male,56 or older,temp,professional,6,2018,contract_end, ,2,3,4,3,3,3,4,3,4,4,4,4,4,4, , ,4,4,3,3,4, ,3,4,4, 
+315,purchasing,USA,Female,56 or older,full-time,managerial,0,2018,vol_term,3,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,4,5,5,5,5
+316,marketing,Europe,Female,21 - 25,full-time,professional,21,2018,vol_term, ,5,5, ,4,5,5,5,5,4,4,4,4,4,4,5,5,5,5,4, ,4,5,5,5,5,5
+317,info_technology,,Male,56 or older,full-time,administrative,0,2018,retired,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+318,info_technology,Europe,Male,56 or older,full-time,administrative,10,2018,retired,1,2,1,1,2,2,2,2,2,3,3,3,3,2,2,5,4,4,1,2,3,1,2,4,1,1,1
+319,customer_service,Europe,Male,56 or older,full-time,service_worker,0,2018,retired,2,3,3,4,4,2,4,4,2,4,5,4,5,4,2,4,2,2,3,4,3,3,4,4,2,4,4
+320,production,USA,Female,51 - 55,temp,machine_tech,13,2018,vol_term,3,4,4,3,4,5,5,4,4,4,4,3,3,3,3,4,4,4,4,4,4,3,4,4,4,3,3
+321,sales,,Female,31 - 35,part-time,sales,16,2018,vol_term,3,4,5,4,4,4,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,4, ,5,5,5,5
+322,production,South America,Male,41 - 45,part-time,machine_tech,2,2018,invol_term,4,3,4,3,3,3,3,3,3,4,4,4,4,4,4,4,4,1,1,4,5,2,3,4,5,4,5
+323,production,,Male,56 or older,full-time,machine_ops,7,2018,invol_term,4,3,4,4,3,4,4,2,4,4,5,4,4,4,4,4,4,4,3,4,4,3,3,4,4,4,4
+324,customer_service,USA,,,,service_worker,14,2018,invol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+325,marketing,Europe,Female,56 or older,full-time,professional,10,2018,retired,4,4, ,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,3,5
+326,sales,,Male,51 - 55,full-time,executive,5,2018,vol_term,1,1,1,1,3,1,2,2,1,5,1,1,1,4,2,5,4,5,1,2,1,1,1,4,5,1,4
+327,purchasing,Canada,Male,46 - 50,full-time,managerial,16,2018,retired,3,2,3,3,2,3,3,3,3,3,2,3,3,3,3,5,3,3,3,2,2,2,2,4,3,3,3
+328,customer_service,South America,Male,56 or older,full-time,service_worker,18,2018,invol_term,2,3,4,2,3,4,4,4,4,5,4,4,3,4,2,5,5,4,3,3,3,2,3,4,2,2,4
+329,production,Europe,,,,machine_ops,20,2019,transfer, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+330,sales,South America,Male,56 or older,full-time,executive,16,2018,invol_term,1,2,2,3,2,2,2,1,2,4,4,3,3,2,2,5,4,4,4,4,4,1,2,4,4,5,4
+331,customer_service,USA,Female,56 or older,full-time,service_worker,15,2018,invol_term,2,1,3,3,4,2,1,4,2,4,2,2,2,4,2,4,4,2,2,4,2,1,1,4,1,1,2
+332,sales,USA,Male,51 - 55,full-time,executive,11,2018,invol_term,1,1,1,2,2,1,1,3,1, ,1,2,2,4,4,3,3,2,2,1,3,1,3,2,1,4,4
+333,info_technology,Canada,Female,56 or older,part-time,administrative,14,2018,retired,3,3,3,3,3,3,3,4,2,3,3,3,3,3,4,3,4,3,2,2,2,2,2,3,4,3,4
+334,customer_service,South America,Male,56 or older,full-time,service_worker,0,2018,retired,4,2,4,4,4,4,4,4,4,5,4,2,2,4,2,4,4,4,4,4,4,4,2,4,4,4,4
+335,sales,South America,Female,56 or older,full-time,sales,3,2018,invol_term,3,1,1,4,2,1,3,3,1,4,2,1,1,4,4,3,1,1,2,4,3,3,1,5,2,1,3
+336,marketing,Canada,Female,56 or older,full-time,professional,11,2018,invol_term,1,1,3,1,2,3,3,2,3,5,5,5,5,5,4,5,4,4,3,3,4,3,3,5,3,3,3
+337,customer_service,Canada,Female,36 - 40,part-time,service_worker,6,2018,contract_end, ,4,4, ,4,4,4,4,4,4,4,3,3,4,4,5,4,4,5,4, ,5,4,4,4,4,4
+338,production,,Female,26 - 30,part-time,machine_ops,21,2018,vol_term, ,2,3,3,3,4,2,4, ,2,3,1,1,2,3,4,5,4,3,2,2,2,2,4,4,3,3
+339,purchasing,Europe,Male,56 or older,full-time,managerial,9,2018,retired,3,1,2,2,1,2,1,1,3,4,4,4,4,4,1,4,3,5,3,4,4,1,2,4,1,3,4
+340,sales,South America,Female,56 or older,part-time,sales,9,2018,invol_term,2,2,4,1,4,4,3,4,4,4,3,3,3,4,2,4,4,4,1,4,3,2, ,5,4,3,3
+341,production,South America,Female,46 - 50,part-time,machine_tech,20,2018,vol_term,3,2,3,3,3,4,4,4,4,4,4,4,4,4,3,4,4,5,4,4,4,2,2,4,5,4,4
+342,sales,USA,,,,sales,21,2018,invol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+343,production,South America,Female,51 - 55,part-time,machine_tech,18,2018,invol_term,1,1,1,1,1,1,1,2,1,4,2,1,1,2,3,3,1,1,1,1,1,1,1,1,1,2,3
+344,human_resources,Europe,Female,56 or older,full-time,managerial,1,2018,invol_term,4,3,4,4,2,3,2,2,4,4,4,4,4,4,4,4,4,4, ,4,4,2,3,4,4,4,4
+345,customer_service,Europe,Female,41 - 45,part-time,service_worker,14,2018,invol_term,3,4,2,2,4,4,4,2,3,4,4,4,4,4,4,4,4,3,3,4,4,3,4,4,4,4,4
+346,sales,South America,Female,51 - 55,full-time,executive,18,2018,invol_term,2,2,2,2,2,2, ,3,2,4,4,4,4,4,2,4,2,2,1,4,4,1,1,4,4,4,3
+347,sales,Canada,Male,56 or older,full-time,sales,11,2017,invol_term,3,2,2,4,1,3,2,2,3,4,4,4,2,4,4,5,5,4,2,2,3,1,3,4,2,3,3
+348,marketing,South America,Female,56 or older,full-time,administrative,17,2017,invol_term,2,2,4,3,4,3,3,4,5,4,4,3,3,4,3,5,5,4,4,4,4,2, ,4,4,4,4
+349,production,Canada,Female,56 or older,full-time,machine_tech,6,2017,invol_term,5,4,4,4,5,5,5,5,4,4,4,4,4,4,5,4,4,4,4,5,5,3,4,4,4,4,4
+350,purchasing,Canada,Male,56 or older,full-time,executive,24,2017,invol_term,2,2,2,3,2,3,2,2,2,4,3,3,3,3,3,3,3,4,3,3,3,1,3,4,4,3,3
+351,marketing,Europe,Female,56 or older,full-time,administrative,18,2017,retired,3,4,4,4,4,4,4,4,4,4,5,4,4,4,4,5,5,4,4,5,5,4,3,5,3,3,4
+352,marketing,Europe,Female,36 - 40,temp,professional,14,2017,contract_end, ,3,1,1,2,4,4,2,1,4,4,2,4,4,4,5,1,2,2,1,3,2,1,1,1,2,2
+353,human_resources,,,,,managerial,4,2017,invol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+354,production,Europe,Female,56 or older,full-time,machine_ops,14,2017,retired,1,1,1,5,1,1, ,3,1,3,1,1,1,1,5,5,5,2,1,1,1,1,1,5,2,5,5
+355,customer_service,South America,Female,31 - 35,part-time,service_worker,15,2017,invol_term,4,3,2,1,3,3,2,4,4,4,4,4,4,5,4,4,4,4,2,4,4,2,4,2,4,5,4
+356,marketing,USA,Female,56 or older,part-time,administrative,17,2017,contract_end, ,4, ,4,4,5,4,4,5,5,5,5,5,5,4,5,5,5,4,5, ,4,5,5, ,5,5
+357,sales,USA,Male,21 - 25,part-time,sales,12,2017,transfer,1,1,2,3,2,2,2,2,2,3,2,2,2,2,1,4,4,3,3,2,2,2,2,3,3,4,3
+358,marketing,,Female,56 or older,part-time,professional,21,2017,retired,2,3,5,4,2,4,3,3,5,5,5,5,5,5,4,5,5,5,5,5,4,2,4,5,5,4,4
+359,customer_service,USA,Female,51 - 55,full-time,service_worker,16,2017,invol_term,5,4,4,4,4,4,4,4,4,4,4,4,4,4,2,5,4,5,4,4,4,3,4,5,4,3,4
+360,marketing,,Female,51 - 55,full-time,professional,21,2017,invol_term,4,2,4,5,4,2,2,4,4,5,2,4,4,4,4,5,4,5,5,4,4,2,2,4,4,5,5
+361,marketing,Canada,Female,56 or older,full-time,professional,16,2017,invol_term,4, ,4,4,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,5, ,4,5,4,4,4,4
+362,marketing,South America,Male,56 or older,full-time,professional,10,2017,invol_term,1,3,3,4,1,1,4,4,2,4,1,2,2,4,3,5,4,4,3,1,1,1,2,4,1,5,4
+363,human_resources,Canada,Female,46 - 50,full-time,managerial,1,2017,invol_term,2,1,1,2,2,2,2,1,2,3,3,1,1,2,1,5,5,1,1,2,1,1,1,3,1,3,3
+364,customer_service,Canada,Female,56 or older,full-time,service_worker,9,2017,retired,4,4,4,5,4,4,4,4,4,5,5,5,5,5,5,5,4,5,4,5,5,3,4,5,4,4,4
+365,production,USA,Female,41 - 45,part-time,machine_tech,16,2017,retired,4,3,4,3,3,4,4,3,4,4,4,4,4,4,4,4,4,3,4,5,5,4,3,4,2,2,2
+366,sales,,,,,sales,14,2017,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+367,marketing,Canada,,,,administrative,4,2017,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+368,customer_service,USA,Male,51 - 55,full-time,service_worker,2,2017,retired,1,3,4,4,3,3,3,2,4,4,4,4,4,4,4,4,4,4,3,4,3,2,2,4,4,3,3
+369,customer_service,South America,Male,51 - 55,full-time,service_worker,8,2017,retired, ,3,3,3,3,3,3,4,3,3,3,4,4,4,4,4,4,4,3,3,4,3,3,3,3,4,4
+370,customer_service,,Male,56 or older,full-time,service_worker,18,2017,retired,3,4,4,4,4,4,4,4,4,4,3,3,3,4,3,4,4,4,4,4,4,4,4,4,4,4,4
+371,marketing,South America,Female,51 - 55,temp,administrative,23,2017,vol_term,3,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,4,5,5,4,4
+372,human_resources,USA,Male,56 or older,full-time,managerial,14,2017,retired,2,4,4,4,3,4,4,4,4,4,5,5,5,4,4,5,4,5,4,3,3,2,2,5,2,4,5
+373,customer_service,,,,,service_worker,16,2017,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+374,sales,South America,Female,46 - 50,part-time,sales,8,2017,vol_term,3,4,4,2,4,4,4,3,4,4,4,4,4,4,2,4,4,4,3,3,3,3,4,4,4,4,4
+375,production,Europe,Female,41 - 45,part-time,machine_ops,14,2017,vol_term,4,5,5,4,4,5,5,5,5,4,5,2,2,3,3,5,5,5,5,5,3,4, ,5,5,4,4
+376,marketing,Canada,Female,56 or older,part-time,administrative,14,2017,retired,3,4,5, ,4,4,4,3,5,4,4,4,4,3,4,5,5,5,5,5,5,4,4,5,5,5,5
+377,production,Europe,Female,41 - 45,part-time,machine_tech,0,2017,vol_term,3,4,4, ,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,3,3,2,3,4,4,3,3
+378,production,Canada,Female,26 - 30,part-time,machine_tech,17,2017,contract_end, ,5,5,4,4,5,5,4,5,5,5,4,4,4,4,5,4,4,4,4,4,4,4,4,4,2,3
+379,production,,,,,machine_ops,19,2019,contract_end,3,5,4,3,5,5,5,5,4,4,5,3,3,4,5,5,5,4,5,3,4,5,3,5,5,4,3
+380,human_resources,South America,Male,46 - 50,full-time,managerial,22,2019,contract_end,3,2,3,5,3,4,3,1,4,4,3,3,3,3,4,4,3,4,4,5,5,2,2,3,4,4,4
+381,marketing,Canada,Female,51 - 55,part-time,administrative,8,2017,contract_end,4,2,3,5,3,4,4,2,4,5,5,5,5,5,4,5,5,5,5,4,4,2,2,5,5,5,5
+382,marketing,South America,Female,41 - 45,part-time,administrative,22,2017,contract_end,1,2,1,1,1,3,1,3,2,5,4,3,3,4,1,4,5,4,1,1,1,2,1,5,4,4,4
+383,marketing,South America,Female,41 - 45,part-time,administrative,8,2017,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+384,human_resources,,Female,31 - 35,full-time,managerial,1,2019,transfer,4,4,3,2,4,5,4,4,4,4,3,4,4,3,4,4,4,4,3,4,3,3,4,4,5,4,3
+385,production,Canada,Female,56 or older,full-time,machine_ops,20,2019,retired,2,2,4,4,2,4,4,4,4,2,2,2,4,4,4,5,5,4,4,3,2,1,4,4,4,4,4
+386,human_resources,USA,Male,41 - 45,full-time,managerial,7,2019,vol_term,3,1,4,1,2,3,2,3,4,5,3,3, ,4,3,5,4,5,3,3,3,2,3,4,2,4,1
+387,marketing,,Male,31 - 35,full-time,administrative,18,2019,contract_end,5,4,3,3,5,4,4,4,4,4,4,4,4,4,4,4,4,3,3,5,5,4,4,4,3,3,3
+388,marketing,South America,Male,51 - 55,full-time,professional,17,2019,transfer,3,4,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,4,4,3,3,3,4,4,4,4,4
+389,production,,Female,36 - 40,part-time,machine_ops,5,2019,vol_term,1,2,2,1,4,4,4,4,2,4,4,4,4,4,4,4,4, ,3,4,4,4,4,1,4,3, 
+390,marketing,,Female,20 or younger,part-time,professional,8,2019,contract_end,3,5,5,3,5,5,5,5,5,5,5,4,4,4,5,5,5,5,5,5,5,4,5,5,5,5,5
+391,production,Europe,Female,56 or older,full-time,machine_ops,2,2019,vol_term,3,3,3,3,4,4,4,4,3,3,3,3,3,3,4,4,3,3,3,4,3,3,3,4,4,3,3
+392,production,USA,,,,machine_ops,17,2019,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+393,customer_service,Canada,Male,56 or older,full-time,service_worker,13,2019,retired,3,2,4,3,4,3,3,4,4,3, ,2,2,3,3,2,2,2,2,3,3,1,4,2,4, ,3
+394,purchasing,Canada,Male,41 - 45,full-time,executive,4,2019,contract_end,3,4,5,5,4,4,4,4,5,5,5,4,4,5,4,5,5,5,5,5,5,3,4,5,5,5,5
+395,purchasing,USA,Female,31 - 35,full-time,executive,8,2019,vol_term,2,1,1,2,2,1,1,1,2,3,3,5,3,3,2,4,2,3,2,3,4,1,1,3,2,2,2
+396,marketing,Canada,Female,31 - 35,part-time,professional,7,2019,vol_term,4,4,5,4,4,5,5,5,5,4,5,5,5,4,4,5,5,5,5,4,5,5,5,5,5,5,5
+397,customer_service,USA,Female,41 - 45,part-time,service_worker,2,2019,invol_term,5,4,5,1,2,5,2,1,5,5,5,5,5,5,5,5,5,4,3,5,5,3,5,5,5,5,5
+398,purchasing,USA,Male,36 - 40,full-time,executive,16,2019,vol_term,3,4,5,4,3,4, ,4,5,4,4,4,3,4,2,5,4,4,3,5,5,3,3,5,4,4,4
+399,production,USA,Male,41 - 45,part-time,machine_tech,9,2019,vol_term, ,5,5,4,4,5,5,5,5,2,5,1,1,1,4,5,5,5,4,5,5,4,4,4,5,4,4
+400,customer_service,USA,Female,26 - 30,part-time,service_worker,16,2019,vol_term,3,4,4,5,4,4,4,3,4,5,5,4,4,4,4,5,5,4,3,5,5,3,2,5,5,5,5
+401,production,Canada,Male,56 or older,full-time,machine_tech,18,2019,vol_term,3,2,4,3,3,2,2,4,4,2,2,2,2,4,4,5,4,1,1,1,1,1,1,4,1,4,4
+402,production,,Female,56 or older,part-time,machine_tech,5,2019,retired,4,4,4,4,3,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4
+403,customer_service,,Female,41 - 45,temp,service_worker,2,2019,invol_term,3,4,1,3,4,4,4,4,2,1,2,1,1,1,4,4,3,4,4,3,3,2, ,4,1,3,4
+404,production,Canada,Female,51 - 55,part-time,machine_tech,4,2019,vol_term,2,4,5,2,5,5,5,5,5,4,3,3,3,4,2,4,3,3,4,5,5,4,4,4,2,4,5
+405,marketing,,Male,51 - 55,full-time,administrative,14,2019,vol_term,3,4,3,5,2,3,3,4,2,5,5,5,5,5,1,5,5,5,5,4,4,2,1,5,3,2,2
+406,purchasing,Canada,Female,56 or older,full-time,executive,12,2019,retired,2,4,5,2,4,4,4,4,4,2,4,2,2,2,4,5,4,4,4,4,4,3,4,3,5,5,5
+407,production,Europe,Male,26 - 30,full-time,machine_ops,15,2019,vol_term,2,2,2,2,3,4,3,4,2,2,4,2,2,2,4,4,4,4,2,4,5,2,3,4,4,4,5
+408,marketing,USA,Male,41 - 45,part-time,professional,18,2019,contract_end,1,1,2,1,1,1,1,1,1,5,3,5,5,3,4,5,4,3,1,1,4,1,1,4,5,5,5
+409,production,South America,Female,31 - 35,part-time,machine_ops,15,2019,vol_term,3,3,2,3,3,2,2,2,1,4,4,4,4,3,4,5,4,4,1,2,4,1,2,4,3,4,2
+410,production,Europe,Female,51 - 55,full-time,machine_ops,8,2019,retired,4,3,2,2,3,3,3,3,4,4,4,4,4,4,4,3,4,3,3,4,4,1,2,4,2,3,4
+411,production,Europe,Male,56 or older,full-time,machine_ops,5,2019,retired,2,1,2,2,1,3,2,4,2,4,4,3,3,3,2,4,4,5,2,3,3,1,2,4,4,3,4
+412,production,,,,,machine_tech,9,2019,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+413,marketing,Europe,Female,41 - 45,full-time,administrative,21,2019,vol_term,4,4,5,5,4,5,5,4,5,5,5,5,5,5,4,5,5,5,5,5,4,4,4,5,5,5,4
+414,sales,,Female,56 or older,full-time,sales,14,2019,retired,5,4,5,4,4,4,4,2,5,4,5,5,5,5,5,5,5,5,4,5,5,2,4,5,5,4,5
+415,production,Europe,,,,managerial,11,2019,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+416,production,South America,Female,31 - 35,part-time,machine_tech,12,2019,vol_term,4,4,5,5,4,4,4,4,5,5,5,5,5,5,4,5,5,5,2,4,4,2,4,5,5,5,5
+417,production,,Female,26 - 30,part-time,machine_tech,23,2019,contract_end,1,4,3,4,2,2,4,2,2,5,2,2,4,4,2,4,3,2,2,2,2,3,2,4,5,5,4
+418,production,Europe,Female,31 - 35,part-time,machine_ops,4,2019,contract_end,1,1,4,1,1,1,1,2,4,5,5,4,4,4,1,4,5,4,4,1,1,2, ,4,4,4,5
+419,production,Europe,Female,26 - 30,full-time,machine_ops,16,2019,vol_term,1,1,1,2,1,2,2,2,2,2,1,3,1,1,4,4,4,1,1,2,1,1,1,4,3,3,4
+420,production,Canada,Female,51 - 55,temp,machine_tech,20,2019,vol_term,3,3,3,2,1,3,3,3,3,3,3,2,2,3,3,4,4,4,4,4,4,3,3,4,3,4,4
+421,production,Europe,Male,36 - 40,full-time,managerial,20,2019,vol_term,1,2,4, ,3,4,4,3,4,2,4,2,2,2,3,5,4,4,3,4,2,2,3,5,4,4,3
+422,production,Canada,Female,56 or older,part-time,machine_tech,14,2019,retired,3,4,4,4,4,4,4,4,4,5,5,4,4,4,2,5,5,4,4,4,4,3,4,5,4,5,3
+423,marketing,South America,,,,professional,1,2019,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+424,marketing,,Female,20 or younger,full-time,administrative,6,2019,vol_term,3,2,1,3,2,1,1,1,1,3,5,5,5,3,1,4,1,1,1,5,5,1,1,5,5,1,1
+425,marketing,South America,,,,professional,6,2019,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+426,production,USA,Male,56 or older,part-time,machine_tech,1,2019,contract_end,3,4,5,5,4,5,5,4,5,3,4,3,3,3,4,5,4,5,3,4,4,4,4,4,5,5,5
+427,production,USA,Female,51 - 55,part-time,machine_ops,13,2019,contract_end, ,4,4, ,5,5,5,4,5,4,5,2,2,4,5,5,5,4,4,4,4,3,4,5,5,5,5
+428,customer_service,Canada,Female,41 - 45,part-time,service_worker,6,2018,contract_end,3,5,5,3,4,5,5,4,5,5,5, ,5,5,4,5,5,5,5,5,3,4,3,5,5,5,5
+429,sales,,Female,36 - 40,part-time,sales,20,2018,contract_end,5,4,5,5,3,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5
+430,sales,Europe,Female,36 - 40,temp,sales,5,2018,contract_end,2,4,4,4,3,4,4,4,4,4,4,4,4,4,3,4,4,4,4,2,3,3,4,4,4,4,4
+431,production,USA,Female,26 - 30,temp,machine_ops,1,2018,invol_term,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+432,production,,Female,46 - 50,part-time,machine_tech,9,2018,contract_end,2,2,4,3, ,3,4,3,2,4,4,3,3,3,3,4,2,2,4,2,2,4,3,3,4,4,4
+433,production,Canada,Male,56 or older,part-time,machine_ops,18,2018,retired,1,3,1,2,3,3,3,1,1,4,3,4, ,5,3,4,3, , ,1,1,4, ,4,2,4,4
+434,production,USA,Female,21 - 25,part-time,machine_ops,0,2018,vol_term,2,3,5,3, ,4,4,4,3,4,4,4,4,3,1,5,4,4,4, ,1,3,2,4,2,3,2
+435,production,USA,Male,20 or younger,part-time,machine_tech,3,2018,contract_end,3,3,4, ,1,4,2,2,4,3,4,3,3,4,4,5,4,5,4,4,3,2,3,4,5,5,5
+436,production,Canada,Female,26 - 30,part-time,machine_tech,17,2018,vol_term,3,2,4,4,3,4,3,3, ,4,4,3,3,3,3,4,4,4,1,4,4,1, ,4,3,3,4
+437,marketing,,,,,professional,15,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+438,customer_service,Canada,Female,26 - 30,part-time,service_worker,2,2018,invol_term,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4
+439,sales,USA,Female,26 - 30,full-time,sales,18,2018,vol_term,4,4,4,3,3,5,5,5,4,2,3,3,3,2,4,4,5,4,3,4,3,4,4,4,2,4,3
+440,production,USA,Female,21 - 25,temp,machine_tech,6,2018,retired,2,2, ,4,4,3,3,3,4,5,5,5,5,5,3,5,5,4,4,4,4,4,4,5,4,4,4
+441,production,South America,Male,36 - 40,full-time,machine_ops,8,2017,vol_term,1,1,4,5,1,5,5,5,5,5,5,5,5,5,1,2,2,1,1,2,5,2,5,5,3,2,2
+442,production,Canada,Male,31 - 35,full-time,machine_ops,21,2017,vol_term,3,3,4,4,4,4,3,4,4,4,4,3,4,4,2,4,4,1,2,3,3,2,3,4,4,4,4
+443,production,,Male,56 or older,full-time,managerial,12,2018,retired,3,3,3,4,2,3,3,4,3,4,3,4,3,3,4,4,3,4,3,4,3,2,2,4,1,4,4
+444,production,South America,Female,31 - 35,part-time,machine_tech,3,2018,contract_end,1,2,4,3,1,4,4,3,2,4,4,3,2,4,3,4,5,4,4,3,3,4,2,4,4,4,4
+445,production,South America,Female,56 or older,part-time,machine_tech,20,2018,retired,5,5,5,5,2,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5
+446,production,USA,,,,machine_ops,9,2018,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+447,sales,USA,Female,46 - 50,part-time,sales,0,2018,contract_end,2,1,3,2,1,2,2,4,2,4,1,1,1,3,1,5,4,4,4,3,3,3,4,4,4,4,4
+448,production,Europe,Female,56 or older,full-time,machine_tech,14,2018,vol_term,5,2,5,4,4,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,2,4,5,5,4,5
+449,production,Europe,Male,31 - 35,part-time,machine_tech,2,2018,retired,3,4,4,3,3,4,4,4,5,4,4,4,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4
+450,R&D,,Female,46 - 50,part-time,professional,4,2018,contract_end,3,4,5, ,5, ,5,5,4,5,5,4,5,5,5,4,5,4,4,5,5,4,3,5,5,5,5
+451,R&D,USA,Male,21 - 25,part-time,professional,11,2018,vol_term,3,4,5,4,5,5,5,5,5,5,5,5,5,4,4, ,5,5,3,3,3,3,4,5,5,4,5
+452,customer_service,Canada,Male,41 - 45,part-time,service_worker,3,2018,vol_term,1,1,4,4,1,1,1,1,4,4,3,1,1,1,1,4,4,4,3,1,1,1,1,4,4,4,4
+453,production,South America,Female,31 - 35,full-time,machine_ops,12,2018,vol_term,1,2,2,2,1,2,2,2,2,4,2,2,2,3,3,4,4,4,3,2,2,1,2,4,2,5,2
+454,production,,Female,21 - 25,part-time,machine_tech,3,2019,contract_end,3,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,4,4,4,5,5,4,4,5,5,4,4
+455,production,USA,Female,56 or older,full-time,machine_ops,8,2019,retired,4,4,5,5,4,4,4,3,5,5,5,4,4,5,3,5,4,4,3,4,4,2,4,4,4,4,4
+456,sales,South America,Female,31 - 35,part-time,sales,23,2019,contract_end,4,3,3,4,4,4,4,4,2,1,4,1,1,1,4,5,5,5,2,4,2,1,4,5,5,5,5
+457,production,Europe,Female,36 - 40,part-time,machine_tech,20,2019,transfer,3,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,5,4,4,4,4,4,4,4,4
+458,customer_service,,Female,46 - 50,part-time,service_worker,14,2019,contract_end,4,1,5,4,1,2,2,1,4,5,4,4,4,4,4,5,5,4,4,2,2,1,2,4,5,5,5
+459,sales,South America,Female,51 - 55,part-time,sales,6,2019,contract_end,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,4,4,5,5,5,5,5,5
+460,production,South America,Female,46 - 50,part-time,machine_ops,4,2019,contract_end,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4
+461,marketing,Canada,Female,41 - 45,part-time,administrative,7,2019,contract_end,1,3,4,3,4,4,4,1,3,4,4,4,3,4,4,4,4,4,4,4,4,3,4,4,4,4,4
+462,customer_service,Europe,Female,41 - 45,full-time,service_worker,11,2019,transfer,1,4,4,4,5,4,4,4,5,5,5,5,4,5,3,5,4,4,4,4,4,3,4,5,5,5,5
+463,R&D,Canada,Male,56 or older,full-time,professional,13,2019,vol_term,5,5,3,4,4,4,5,4,5, ,4,5,3,5,4,3,4,5,3,5,4,5,5,5,4,4,5
+464,sales,South America,Female,21 - 25,part-time,sales,9,2019,invol_term,4,1,2,4,2,4,4,1,4,5,5,5,5,5,4,5,5,4,1,5,4,2,4,5,2,4,4
+465,customer_service,,Female,41 - 45,part-time,service_worker,2,2019,invol_term,2,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,2,3,3,3,3,3
+466,R&D,USA,Female,31 - 35,part-time,professional,1,2019,invol_term,4,1,5,3,3,5,3,1,4,4,3,1,1,4,1,4,4,5,3,3,1,1,2,3,5,4,4
+467,customer_service,USA,Female,51 - 55,full-time,service_worker,18,2019,transfer,3,3,4,4,4,3,4,3,3,4,4,5,5,5,3,3,5,4,3,4,4,3,4,3,5,5,4
+468,purchasing,Europe,Female,26 - 30,full-time,executive,15,2019,contract_end,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+469,production,South America,Female,46 - 50,part-time,machine_tech,7,2019,vol_term,4,2,4, ,4,4,4,4,2,4,4,4,4,4,4,3,4,2,1,4,4,1,4,4,4,5,4
+470,sales,Europe,Male,56 or older,full-time,sales,21,2019,retired,4,2,2,1,3,2,2,4,3,4,4,3,3,3,2,4,4,4,4,3,3,3,3,4,4,4,4
+471,production,Europe,Female,51 - 55,part-time,machine_tech,11,2019,vol_term, ,5,5,5,5,5,5,5,5,5,5,4,4,4,5,5,5,5,5,5,5,4,5,5,4,5,5
+472,production,USA,,,,executive,8,2019,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+473,R&D,USA,Male,46 - 50,part-time,professional,8,2019,invol_term,2,4,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4
+474,production,Canada,Male,36 - 40,part-time,machine_tech,8,2019,contract_end, ,3,4,3,4,2,4,4,4,3,4,3,3,4,4,3,2,4,3,2,2,3,4,4,4,4,5
+475,sales,Europe,Female,31 - 35,part-time,sales,23,2019,invol_term,1,2,2,1,2,2,4,4,1,4,5,4,4,4,2,5,4,4,4,1,4,2,4,4,2,4,4
+476,customer_service,USA,,,,service_worker,14,2019,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+477,customer_service,Canada,Female,41 - 45,temp,service_worker,12,2019,contract_end,3, ,5, ,4,5,5,4,5,4,5,4,5,3,4,5,4,4,4,4,4,3,4,4,4,4,4
+478,marketing,Europe,Female,36 - 40,full-time,administrative,9,2019,vol_term,3,2,4,3,3,4,3,4,3,2,3,3,3,2,3,4,3,4,3,4,3,1,3,3,4,3,2
+479,R&D,,,,,professional,24,2019,contract_end,2,3,3,3, ,4,4,4,3,2,2,1,1,1,4,4,4,4,2,4,4,2,3,4,2,5,5
+480,R&D,Canada,Female,26 - 30,temp,professional,15,2019,contract_end,5,4,5,1,4,5,5,4,5,5,5,4,4,4,3,5,5,4,4,5,5,3,4,5,4,5,5
+481,R&D,Canada,Male,56 or older,temp,professional,14,2019,contract_end,3,4,4, ,4,5,4,4,4,4,4,4,4,4,4,4,4,4,2,5,5,2,4,4,4,4,5
+482,production,South America,Female,41 - 45,temp,machine_tech,10,2019,contract_end,2,3,4,2,4,3,4,4,3,1,1,1,1,2,4,4,3,3,1,4,4,1,4,4,2,5,5
+483,customer_service,Europe,Male,41 - 45,temp,service_worker,0,2020,contract_end, ,5,5,4,2,5,5,4,4,3,4,3,2,2,4,4,4,4,4,1,2,1,4,4,1,3,3
+484,customer_service,Canada,Female,41 - 45,temp,service_worker,11,2020,contract_end,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+485,R&D,Europe,Female,46 - 50,part-time,professional,18,2020,contract_end,3,3,4,2,2,4,2,2,5,5,5,2,2,4,3,5,5,5,2,2,2,1, ,4,2,5,5
+486,customer_service,Europe,,,,service_worker,0,2020,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+487,customer_service,Europe,Male,56 or older,temp,service_worker,22,2020,contract_end,2,2,2,2,2,2,2,1,4,4,3,2,3,4,3,4,2,2,1,2,2,2,3,4,4,4,4
+488,R&D,Europe,Female,41 - 45,part-time,professional,23,2020,invol_term,1,2,1,4,2,1,1,3,2,5,1,5,5,5,1,1,1,1,3,4,3,3,1,5,4,1,1
+489,R&D,Canada,Female,56 or older,temp,professional,16,2020,contract_end,3,4,2, ,3,4,4,4,4,4,4,4,5,4,3,4,3, ,2,3,4,1, ,4,4,5,5
+490,customer_service,,Female,56 or older,temp,service_worker,22,2020,invol_term,5,2,3,3, ,3,4,2,2,4,4,3,3,4,2,4,1,1, ,5,5,1,2,4,4,3,3
+491,R&D,South America,Male,56 or older,full-time,professional,4,2020,retired,3,3,4,4,3,4,4,4,4,5,5,4,4,4,2,5,4,5,4,4,4,2,3,4,4,5,4
+492,sales,,Male,46 - 50,full-time,sales,23,2020,contract_end,4,3,3,4,3,3,3,4,4,3,4,4,4,4,4,4,3,4,4,4,4,2,3,4,4,4,4
+493,sales,USA,Female,31 - 35,part-time,sales,4,2020,contract_end,5, ,5, ,3,5,5,5,5,5,5,4,4,5,3,5,4,5,3,5,4,1,5,5,5,5,5
+494,marketing,Europe,Male,56 or older,part-time,administrative,16,2020,contract_end,3,3,5,4,2,4,4,4,4,4,5,4,4,4,4,4,5,4,4,5,5,3,3,5,5,5,5
+495,production,Europe,Female,31 - 35,temp,machine_tech,23,2020,vol_term,3,3,4,3,3,4,4,3,4,4,4,4,4,4,4,4,4,4,3,3,3,2,3,4,4,4,4
+496,marketing,Canada,Male,41 - 45,full-time,administrative,8,2020,retired,1,4,1,3,1,3,3,2,2,4,5,5,5,4,5,5,4,4,3,1,3,1, ,3,1,3,4
+497,customer_service,,Female,26 - 30,temp,service_worker,5,2020,contract_end,3,2,1,2,3,2,3,1,1,3,3,2,2,2,4, ,3,1,1,4,4,1,1,3,3,3,3
+498,production,Europe,Female,21 - 25,part-time,machine_tech,16,2020,contract_end,2,4,3,3,3,4,4,3,4,3,3,3,2,2,3,5,5,4,3,3,3,2,3,4,2,4,4
+499,sales,,Female,36 - 40,temp,sales,2,2020,contract_end,3,5,5,3,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,3,5,5,5,5
+500,customer_service,,Male,46 - 50,temp,service_worker,11,2020,contract_end, ,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5,4,3,4,5,5,5
+501,production,South America,Male,56 or older,part-time,machine_tech,10,2020,contract_end, , , , , , , , , , , , , , , , , , ,1, , , , , , , , 
+502,marketing,USA,Female,56 or older,part-time,administrative,1,2020,retired,5,4,5,5,4,4,4,4,4,5,5,5,5,5,3,5,5,5,4,5,4,4,4,5,4,4,2
+503,production,,Female,46 - 50,part-time,administrative,20,2020,vol_term,4,4,4,4,4,4,4,4,4,3,3,3,4,3,3,4,4,4,3,4,4,2,3,4,4,4,4
+504,R&D,,Male,31 - 35,part-time,professional,11,2020,contract_end,3,1,3,3,2,1,3,1,1,4,5,2,2,4,3,4,4,3,2,3,3,2,1,5,4,4,3
+505,customer_service,USA,Male,46 - 50,full-time,service_worker,9,2020,vol_term,3,4,4,4,5,4,4,4,4,4,4,3,3,4,2,4,4,5,4,4,4,3, ,4,4,4,3
+506,sales,Canada,Male,36 - 40,part-time,sales,10,2020,vol_term,3,3,3,3,5,3,3,3,3,3,4,3,3,3,2,4,4,3,3,4,3,3,3,3,3,3,3
+507,R&D,Canada,Male,21 - 25,part-time,professional,10,2020,vol_term,4,4,5,4,3,5,5,4,5,4,4,2,4,4,4,5,5,4,4,4,4,4,4,4,3,4,4
+508,R&D,Canada,Female,36 - 40,part-time,professional,12,2020,vol_term,2,3,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,2,4,4,4,4,4,3
+509,production,Europe,Female,21 - 25,part-time,machine_tech,4,2020,vol_term,3,5,5,4,5,5,5,5,5,4,5,4,5,3,4,5,5,5,4,4,4,3,4,5,5,5,5
+510,sales,USA,Female,31 - 35,part-time,sales,23,2018,contract_end,3,4,5,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5
+511,customer_service,Europe,Male,56 or older,full-time,service_worker,9,2018,retired,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,5,5
+512,customer_service,USA,Female,51 - 55,part-time,service_worker,11,2018,vol_term,2,3,3,2,3,4,4,3,2,5,5,5,5,5,2,5,5,3,3,2,4,3,2,4,2,3,2
+513,production,South America,,,,machine_tech,10,,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+514,production,Canada,,,,administrative,18,2018,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+515,customer_service,Europe,Female,51 - 55,temp,service_worker,2,2018,retired,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+516,customer_service,South America,Female,21 - 25,full-time,service_worker,8,2018,vol_term,5,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,5,3,4,4,4,4,4
+517,R&D,,Female,41 - 45,part-time,professional,13,2018,vol_term,4,5,5,1,1,5,4,4,5,4,5,4,4,4,4,5,5,5,4,4,4,1,4,5,5,5,5
+518,R&D,,Female,26 - 30,part-time,professional,13,2018,transfer,3,3,4,4,3,5,4,2,5,3,5,5,2,4,1,4,5,4,4,3,5,2,4,5,5,5,4
+519,R&D,Canada,Male,31 - 35,part-time,professional,24,2018,vol_term,5,5,4,4,4,4,4,4,5,5,5,5,5,4,4,5,4,5,4,5,4,3,4,5,4,5,3
+520,customer_service,South America,Female,41 - 45,full-time,service_worker,13,2018,vol_term,2,4,3,1,3,3,4,3,3,4,4,2,3,3,2,4,3,4,4,2,2,2,3,4,5,3,2
+521,production,USA,Female,51 - 55,full-time,administrative,21,2018,transfer,3,4,4,4,4,4,4,4,4,5,4,4,5,5,4,4,5,4,5,4,4,5,4,4,5,5,4
+522,customer_service,USA,Female,21 - 25,temp,service_worker,23,2018,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+523,sales,Europe,Female,21 - 25,part-time,sales,24,2018,vol_term,3,4,4,4,4,4,4,3,4,3,3,3,3,3,4,4,4,3,3,4,3,3,3,4,3,4,4
+524,R&D,Canada,Male,56 or older,part-time,professional,4,2018,vol_term,1,1,1,1,3,1,3,1,3,4,2,1,1,3,3,5,2,3,1,4,4,2,1,4,5,5,5
+525,production,,Female,46 - 50,part-time,machine_tech,10,2018,vol_term,1,1,1,1,4,1,2,1,1,4,4,2,3,4,5,3,1,2,1,4,1,1,1,1,2,1,4
+526,production,,Male,26 - 30,part-time,machine_ops,14,2018,vol_term,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,5,4,4,4,3,4,2,3,5,4,4,4
+527,customer_service,,Male,56 or older,full-time,service_worker,5,2018,retired,4,3,3,3,4,2,2,2,1,4,3,4,4,4,2,5,4,3,3,4,4,3,2,4,4,4,4
+528,production,Europe,Female,46 - 50,full-time,machine_ops,22,2018,vol_term,2,1,2,2,1,1,1,3,1,4,4,2,2,4,3,4,2,2,1,2,2,1,1,4,2,3,3
+529,production,USA,Female,56 or older,full-time,administrative,7,2018,retired,3,4,4,3,4,5,4,5,4,5,5,2,2,4,4,5,5,5,4,4,4,2,4,5,4,4,4
+530,production,Europe,,,,administrative,19,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+531,production,USA,Male,41 - 45,part-time,administrative,10,2018,vol_term, ,1,1,3,3,4,4,4,1,4,5,3,4,4,1,4,1,1,1,2,2,2,3,3,4,2,2
+532,sales,USA,Male,26 - 30,part-time,sales,21,2018,transfer,3,5, ,4,5,5,5,4, ,5,5,5,5,5,2,5,5,5,5,5,5,5,4,5,5,5,5
+533,customer_service,Europe,,,,service_worker,0,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+534,production,,Female,21 - 25,full-time,machine_tech,5,2018,vol_term,5,4,4,4,5,5,5,3,5,2,4,2,2,3,3,5,3,4,4,4,5,3,4,4,4,2,4
+535,sales,South America,,,,sales,8,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+536,customer_service,USA,Female,26 - 30,part-time,service_worker,9,2018,vol_term,3,4,5,5,5,4,3,4,4,5,5,5,5,5,3,5,1,5,3,5,5,2,5,4,5,5,5
+537,R&D,Europe,Male,36 - 40,part-time,professional,4,2018,vol_term,4,4,5,5,4,4,4,4,5,3,5,2,2,3,4,4,4,5,5,4,4,3,4,4,5,4,5
+538,R&D,USA,Female,21 - 25,part-time,professional,4,2018,vol_term,1,1,1,4,1,3,4,1,1,4,1,2,4,4,1,5,1,1,1,4,1,1,1,4,5,1,1
+539,production,Europe,,,,administrative,18,2018,vol_term, , , , ,2, , , , , , , , , , , , , , , , ,2, , , , , 
+540,customer_service,,Female,56 or older,full-time,service_worker,8,2018,retired,5,4,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,4,4,4,4,4,5,4,3,4
+541,R&D,USA,Female,26 - 30,part-time,professional,22,2018,contract_end,4,4,5,4,5,5,5,4,5,3,4,3,3,3,4,5,5,5,5,4,5,4,4,4,5,5,5
+542,R&D,South America,Male,21 - 25,temp,professional,0,2018,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+543,R&D,South America,Female,31 - 35,part-time,professional,3,2019,vol_term,3,2,3,4,5,4,5,5,4,5,5,4,4,4,5,4,3,4,4,5,4,2,4,4,3,4,3
+544,sales,USA,Female,20 or younger,part-time,sales,22,2018,vol_term,4,1,3,2,3,4,4,4,3,1,3,2,2,1,4,4,3,3,3,4,3,2,3,4,3,2,3
+545,R&D,USA,Male,51 - 55,part-time,professional,15,2018,vol_term,4,3,5,4,4,5,4,5,5,5,5,5,5,5,2,4,5,4,2,4,4, ,3,4,5,4,4
+546,customer_service,South America,Male,56 or older,part-time,service_worker,14,2018,vol_term,3,4,4,3,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,3, ,4,4,4,4
+547,production,USA,Female,36 - 40,temp,machine_tech,5,2018,contract_end, , ,4,4,3,4,3,4, ,5,5,5,5,5,4,5,5,5,3,4,4,3, ,5,4,4,5
+548,production,USA,,,,machine_tech,11,2018,retired,2,3,2,2,3,3,2,3,2,4,3,4,4,4,4,3,3,3,3,3,3,2,3,4,4,4,4
+549,sales,USA,Male,56 or older,full-time,sales,18,2018,retired,1,2,3,2,3,3,3,2,2,4,3,4,4,4,4,3,4,3,3,3,3,3,3,4,4,4,4
+550,customer_service,,Female,26 - 30,full-time,service_worker,0,2018,vol_term,2,3,3,2,3,3,3,3,3,2,2,2,3,2,3,4,3,2,2,3,2,3,3,4,3,3,3
+551,R&D,,Female,56 or older,part-time,professional,14,2018,vol_term,1,2,4,4,3,3,3,2,2,4,4,3,4,4,1,4,3,2,2,4,4,2,4,4,2,4,2
+552,production,Europe,Female,31 - 35,full-time,executive,12,2018,retired,4,3,2,4,4,4,4,3,4,4,3,4,4,4,2,5,4,4,4,3,3,2,4,5,4,3,4
+553,customer_service,Europe,,,,service_worker,19,2018,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+554,production,Europe,Female,21 - 25,temp,machine_tech,15,2018,contract_end,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4
+555,R&D,Europe,Female,36 - 40,part-time,professional,23,2018,vol_term,4,5,5,3,5,5,5,3,5,5,5,5,5,5,5,5,5,5,4,5,5,4,5,5,5,5,5
+556,sales,USA,Female,56 or older,part-time,sales,24,2018,contract_end,3,3,4,3,3,4,4,3,4,3,3,4,4,4,3,4,4,4,3,4,3,1,3,4,4,4,4
+557,customer_service,,Female,56 or older,full-time,service_worker,20,2018,retired,3,2,2,5,4,4,4,3,4,4,4,4,4,4,4,5,4,4,1,4,4,1,4,4,4,4,4
+558,R&D,USA,Female,41 - 45,part-time,professional,24,2018,vol_term,3,5,5,3,3,5,5,5,5,5,5,5,5,5,3,5,5,4,4,3,3,3,5,5,3,5,5
+559,production,,Male,56 or older,full-time,administrative,6,2018,retired,2,2,3,3,3,3,3,3,4,4,4,4,4,4,3,4,4,4,3,2,2,2,3,4,4,3,3
+560,production,South America,Male,56 or older,full-time,professional,22,2018,retired,2,2,1,4,3,2,2,2,2,4,2,2,2,2,4,5,4,4,2,3,2,1, ,4,5,3,2
+561,customer_service,USA,Male,21 - 25,part-time,service_worker,22,2018,vol_term,4,4,4,5,2,5,5,5,5,4,5,4,4,4,5,5,5,5,3,4,3,2,4,5,5,4,4
+562,production,South America,Male,56 or older,temp,administrative,23,2018,retired,3,4,5, ,4,5,4,4,4,4,4,4,3,4,2,4,4,4,3,4,4,3,4,4,5,4,4
+563,production,South America,Male,46 - 50,part-time,machine_tech,22,2018,vol_term, ,5,5,5,5,4,3,4,5,5,5,2,2,4,2,5,3,5,5,4, ,3,2,4,5,5,5
+564,production,South America,Female,56 or older,part-time,professional,11,2018,vol_term,4,4,4,4, ,4,4,4,4,3,4,4,4,2,3,4,4,4,4,4,4,4,4,2,3,3,4
+565,production,USA,,,,administrative,6,2018,transfer, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+566,production,South America,Female,56 or older,part-time,machine_ops,9,2018,retired,2,1,3,2,3,2,2,3,3,4,4,4,4,4,1,3,3,4,3,2,2,2,3,4,3,4,4
+567,customer_service,,Male,51 - 55,full-time,service_worker,9,2018,vol_term,3,4,3,4,5,4,4,4,4,4,4,4,4,4,4,4,4,3,3,4,3,4,3,4,4,4,3
+568,customer_service,USA,Female,56 or older,full-time,service_worker,11,2018,retired,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,4,5,5,5,5
+569,production,USA,Female,41 - 45,full-time,machine_tech,23,2018,retired,2,4,4,5,3,4,4,4,4,4,5,4,5,3,4,4,5,5,5,4,4,2,4,5,4,3,4
+570,production,USA,Female,56 or older,part-time,professional,3,2018,retired, ,3,3,2,3,3,3,2,3,4,4,4,4,4,1,4,4,4,4,4,4,3,3,4,2,4,4
+571,production,Europe,,,,machine_ops,6,2018,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+572,production,,Male,56 or older,full-time,administrative,12,2018,retired,3,4,4,3,4,4,4,4,4,5,5,4,4,5,1,4,3,4,3,5,4,3,3,4, ,2,4
+573,customer_service,South America,Male,36 - 40,full-time,service_worker,7,2018,vol_term,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,3,4,4,4,4,4
+574,production,,Female,31 - 35,part-time,machine_ops,5,2018,vol_term, ,2,2,4,2,3,2,2,3,4,4,3,3,4,4,4,4,4,2,4, ,2, ,4,4,4,4
+575,production,,Female,41 - 45,temp,machine_ops,7,2018,contract_end,3,3,4,3,3,4,4,4,4,4,4,4,4,4,3,4,5,4,4,4,4,4,4,4,5,4,4
+576,sales,USA,Female,36 - 40,full-time,sales,24,2018,vol_term,1,2,4,4,1,2,2,3,2,5,5,4,4,4,1,5,2,4,3,3,4,2,2,4,4,4,4
+577,production,South America,Female,36 - 40,part-time,machine_ops,18,2018,vol_term,3,4,4,2,5,3,5,5,3,5,5,5,5,5,4,2,2,2,2,3,4,4,4,5,4,2,2
+578,production,,Female,26 - 30,part-time,professional,20,2018,vol_term,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+579,production,USA,,,,administrative,23,2018,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+580,production,,Female,31 - 35,part-time,professional,2,2018,vol_term,4,4,5,4,4,5,5,5,5,5,5,5,5,5,4,5,5,5,4,4,4,3,4,5,5,5,5
+581,sales,Europe,,,,sales,2,2018,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+582,production,USA,Female,20 or younger,temp,professional,15,2018,invol_term,4,5,4,4,3,5,5,4,4,5,5,5,5,4,4,5,5,5,5,4,5,5,4,5,4,5,3
+583,production,,Male,51 - 55,full-time,managerial,16,2018,retired,5,3,3,4, ,3,4,3,4,4,5,5,5,4,5, ,5,5,4,4,4,3,3,5,3,5,4
+584,production,USA,Male,20 or younger,part-time,machine_ops,5,2018,retired,3,3,4,4,3,4,4,3,3,4,4,4,4,4,4,4,3,4,4,4,4,3,3,4,4,4,4
+585,production,,Male,41 - 45,full-time,machine_ops,15,2018,retired,2,2,2,3,4,3,3,3,2,3,3,2,2,3,3,4,3,4,1,3,2,1,3,3,2,3,1
+586,production,USA,Female,46 - 50,full-time,managerial,5,2018,vol_term,1,1,1,1,1,3,3,4,4,5,5,1,1,1,3,5,1,5,4,4,4,1,4,2,4,1,5
+587,production,Europe,Female,56 or older,full-time,administrative,17,2018,retired, ,5,5,3,4,5,5,5,5,5,5,5,5,5, ,5,5,5,5,5, ,4,4,5,4,4,4
+588,production,Europe,Male,31 - 35,part-time,administrative,18,2018,vol_term,3,1,2, ,2,3,2,1,1,3,2,3,2,3,2,4,3,1,1,2,2,1,2,4,3,4,4
+589,production,USA,Female,56 or older,part-time,professional,10,2018,vol_term,4,4,4,3,4,4,3,4,3,3,5,2,2,4,2,4,4,4,3,4,4,4,4,4,3,3,4
+590,sales,USA,Male,46 - 50,full-time,sales,7,2019,transfer,3,4,5,4,4,4,4,4,4,4,3,4,4,4,4,4,5,4,4,4,4,4,4,4,3,4,4
+591,production,USA,Male,36 - 40,full-time,machine_ops,11,2019,vol_term,2,3,4,3,2,4,4,4,3,2,3,1,2,3,3,4,3,3,2,4,3,2,3,3,3,4,4
+592,sales,USA,Male,46 - 50,full-time,sales,21,2018,vol_term,4,3,3,5,3,4,4,3,4,5,5,5,5,4,3,4,5,4,3,4,4,3,3,5,5,5,4
+593,customer_service,Europe,Male,41 - 45,part-time,service_worker,24,2018,vol_term,4,4,4,3,2,4,3,4,5,5,5,5,5,5,4,5,5,5,4,5,5,3,4,5,5,5,5
+594,production,South America,Female,36 - 40,temp,machine_ops,9,2018,contract_end,4,4,4,2,3,5,4,4,2,1,4,1,1,1,2,4,4,4,3,4,2,2,3,1,1,4,5
+595,customer_service,South America,Female,21 - 25,part-time,service_worker,1,2018,vol_term,1, ,4,2,2,3,3,2,3,1,1,1,1,1,2,5,3,5,5,3,1,1,3,2,5,5,5
+596,production,USA,Female,31 - 35,part-time,machine_tech,12,2018,vol_term,4,4,5,2,4,5,5,4,5,5,5,4,4,4,5,5,5, ,4,4,4,4,4,5,2,4,5
+597,customer_service,USA,Female,56 or older,part-time,service_worker,16,2018,retired, ,3,5, ,5,4,4,4,4,4,5,5,5,5,4, ,5, , ,4,4, , ,5,4,5,4
+598,production,USA,Female,51 - 55,full-time,professional,17,2018,retired,3,3,2,2,2,2,2,2,2,2,2,4,2,2,3,5,4,4,2,2,2,2,2,4,2,2,2
+599,production,Europe,Male,51 - 55,part-time,professional,22,2018,retired,4,3,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4
+600,production,Europe,Female,56 or older,full-time,machine_tech,19,2018,retired,3,2,4,4,3,2,2,1,4,4,4,2,2,3,4,4,3,5,5,3,2,1,3,4,2,4,4
+601,sales,Europe,Male,56 or older,part-time,sales,23,2018,contract_end,1,1,1,3,3,1,1,1,1,4,1,1,1,4,1,1,3,1,1,1,1,1,1,3,5,4,1
+602,production,Europe,Male,41 - 45,part-time,professional,1,2019,vol_term,4,4,4,4,4,3,4,4,4,5,5,4,4,4,4,5,4,4,4,5,5,4,3,5,4,4,4
+603,production,,Male,51 - 55,part-time,professional,4,2018,vol_term,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,3
+604,production,USA,,,,professional,7,2018,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+605,customer_service,USA,Female,36 - 40,temp,service_worker,23,2018,contract_end,2,2,3,1,2,3,4,4,3,3,4,3,4,3,5,4,4,3,3,2,2,1,3,4,5,5,5
+606,production,Europe,Female,51 - 55,full-time,machine_ops,13,2018,vol_term,3,3,3,3,3,3,2,1,2,2,2,3,4,3,4,4,4,4,1,4,3,1,2,4,2,3,2
+607,production,Europe,Male,56 or older,full-time,machine_ops,16,2018,retired,2,2,3,4,2,4,3,1,4,5,4,2,3,4,2,4,3,4,4,3,3,2,3,4,5,3,4
+608,customer_service,South America,Female,56 or older,full-time,service_worker,15,2019,retired,4,3,3,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,3,2,3,4,4,3,2
+609,customer_service,,Female,46 - 50,full-time,service_worker,8,2018,retired,5,4,5,5,4,4,4,4,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,5,5,5,4
+610,production,,Female,21 - 25,temp,professional,8,2018,vol_term,4,1,2,2,2,4,4,3,4,4,4,2,4,2,4,4,4,4,1,4,4,1,2,4,4,2,5
+611,customer_service,,Female,56 or older,part-time,service_worker,7,2019,retired,2,2,5,4,1,2,2,2,1,4,4,4,4,4,1,4,5,4,4,2,2,2,3,4,4,3,4
+612,customer_service,USA,Female,36 - 40,part-time,service_worker,16,2019,transfer,2,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,3,3,3,3,4,4,4,4,4
+613,customer_service,Europe,Male,56 or older,part-time,service_worker,24,2019,retired,3,3,4,4,4,4,4,4,5,4,5,4,4,4,4,5,5,5,5,4,3,4,4,4,2,4,4
+614,production,,Female,46 - 50,part-time,professional,11,2018,vol_term,3,3,4,3,4,4,4,4,2,4,3,2,2,2,4,4,2,2,2,2,3,2,2,4,3,4,4
+615,production,USA,Female,56 or older,full-time,administrative,14,2018,retired,3,4,5,2,4,4,1,1,3,4,4,3,3,4,2,4,4,4,1,3,2, ,2,4,5,1,1
+616,customer_service,South America,,,,service_worker,16,2019,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+617,production,USA,Female,56 or older,part-time,professional,0,2018,retired,5,3,4,5,4,5,4,4,4,5,5,5,5,4,4,5,4,5,3,5,5,3,4,5,4,3,3
+618,human_resources,Europe,Male,31 - 35,part-time,professional,20,2018,retired,4,3,3,4,4,4,4,4,4,5,4,4,4,4,4,5,5,4,4,5,5,3,4,5,4,5,4
+619,human_resources,Europe,,,,professional,8,2018,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+620,sales,South America,Female,56 or older,full-time,sales,12,2018,retired,2,4,3,4,3,4,3,4,3,2,2,1,1,2,4,4,3,4,4,4,3,3,3,4,3,4,3
+621,production,,,,,administrative,18,2019,vol_term,3,4,5,4,4,5,5,5,5,4,5,4,4,4,4,5,5,4,4,4,4,2, ,5,4,5,5
+622,production,,Male,36 - 40,full-time,administrative,1,2018,vol_term,5,4,3,4,5,4,4,4,4,5,4,4,5,4,4,4,4,4,4,5,4,4,4,5,5,5,5
+623,production,South America,Female,46 - 50,full-time,machine_ops,19,2019,vol_term,3,2,2,2,2,3,2,1,2,3,2,2,2,4,3,4,2,4,3,2,3,2,2,4,4,4,4
+624,customer_service,South America,Female,51 - 55,part-time,service_worker,10,2018,contract_end,1,1,1,1,2,1,1,1,1,4,1,4,4,4,4,4,1,1,1,1,1,1,1,2,4,2,2
+625,production,USA,,,,machine_ops,12,2019,vol_term,2,3,4,2,1,4,4,4,3,4,4,2,4,4,2,4,1,4,2,5,5,1,3,4,1,3,4
+626,production,,Female,41 - 45,temp,administrative,9,2019,vol_term,4,4,4,3,4,4,4,4,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,4,4,3,4
+627,human_resources,Europe,Male,41 - 45,full-time,professional,3,2018,vol_term,3,1,1,2,1,2,2,2,2,4,4,4,4,4,3,4,4,4,2,4,4,1,2,4,3,3,3
+628,production,USA,,,,machine_ops,4,2019,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+629,production,Europe,,,,administrative,18,2019,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+630,customer_service,Europe,Female,56 or older,full-time,service_worker,6,2019,vol_term,2,4,4, ,4,5,4,4,4,4,3,4,4,4,4,5,4,5,5,4,3,2,4,4,4,4,4
+631,customer_service,USA,,,,service_worker,19,2019,retired,2,3,4,2,2,2,4,3,4,4,4,3,3,4,4,5,4,4,4,3,3,1,2,4,4,4,4
+632,production,,Female,56 or older,full-time,machine_ops,19,2019,retired,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5
+633,production,South America,Male,56 or older,part-time,administrative,2,2019,retired,2,4,4,4,3,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4
+634,sales,,Female,41 - 45,part-time,sales,24,2019,vol_term,2,4,4,4,4,4,4,4,5,4,5,5,5,4,4,5,5,4,4,4,4,4,4,4,2,4,2
+635,human_resources,USA,Female,36 - 40,part-time,professional,14,2019,vol_term,3,4,4,4,4,4,4,4,4,5,5,5,5,5,1,5,5,5,4,5,5,4,4,5,4,3,2
+636,customer_service,USA,Male,31 - 35,full-time,service_worker,0,2019,vol_term,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+637,customer_service,USA,Female,46 - 50,part-time,service_worker,5,2019,vol_term,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+638,production,Europe,,,,administrative,14,2019,transfer, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+639,production,USA,Male,46 - 50,part-time,administrative,24,2019,vol_term,1,2,2,1,2,3,2,2,3,5,5,2,2,5,1,5,3,2,3,5,4,1,2,5,5,5,3
+640,production,USA,Female,21 - 25,part-time,machine_ops,14,2019,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5
+641,production,South America,Female,56 or older,part-time,machine_ops,2,2019,vol_term,3,2,2,4,3,3,3,4,3,5,3,5,5,5,4,5,5,4,2,3,3,1,2,5,2,2,3
+642,sales,,Male,51 - 55,full-time,sales,18,2019,vol_term,3,3,4,3,4,4,4,4,4,3,4,4,4,3,4,4,4,3,3,4,4,3,3,4,4,4,4
+643,customer_service,Europe,Male,51 - 55,full-time,service_worker,23,2019,retired,4,1,1,2,1,2,1,1, ,4,3,3,4,4,2,4,2,4,4,3,4,1,2,4,4,4,4
+644,production,,Female,26 - 30,temp,machine_ops,24,2019,vol_term,3,3,2,2,3,2,3,2,2,3,4,2,3,3,1,4,1,2,4,1,1,4,2,2,1,2,3
+645,sales,USA,Male,20 or younger,part-time,sales,4,2019,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+646,sales,South America,Male,51 - 55,full-time,sales,4,2019,retired,4,1,1,4,1,2,1,1,4,4,3,3,3,4,2,4,2,4,4,4,4,1,2,4,4,4,4
+647,customer_service,USA,Male,46 - 50,full-time,service_worker,6,2018,vol_term,1,2,2,3,1,1,1,1,1,4,1,2,2,3,3,4,4,4,1,3,3,1,1,4,4,4,3
+648,production,USA,Female,46 - 50,part-time,machine_tech,17,2019,vol_term, ,4,4, ,4,5,5,5,4,3,3,2,2,3,2,4,4,4,4,5,3,4, ,4,5,5,4
+649,human_resources,USA,Female,21 - 25,part-time,professional,8,2018,contract_end,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4
+650,production,,Male,51 - 55,full-time,managerial,14,2019,vol_term,5,4,5,5,4,5,5,4,5,4,4,4,4,5,4,4,4,4,4,5,4,3,5,4,5,5,4
+651,customer_service,Europe,Female,56 or older,part-time,service_worker,1,2019,retired,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+652,human_resources,USA,Male,51 - 55,part-time,administrative,2,2019,vol_term,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,4,3,4,4,4
+653,human_resources,Europe,Female,46 - 50,part-time,professional,2,2019,contract_end,3,2,5,3,2,2,2,2,3,4,4,4,4,4,4,5,5,4,4,4,3,2,3,2,4,2,4
+654,human_resources,Europe,Male,36 - 40,part-time,professional,24,2019,vol_term,2,3,3,3,3,3,3,2,2,4,4,2,2,3,2,3,3,3,2,3,3,2,3,3,4,3,4
+655,customer_service,USA,Female,26 - 30,part-time,service_worker,1,2019,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5
+656,customer_service,Canada,Female,56 or older,temp,service_worker,20,2019,invol_term,2,2,4, ,2,2,2,2,5,5,5,2,2,2,4,5,5,4,2,2,2,2, ,5,4,4,2
+657,customer_service,USA,,,,service_worker,7,2019,invol_term,2,2,4,2,2,2,2,2,4,4,4,2,2, ,4,4,4,4,2,2,2,2, ,4,4,4,2
+658,sales,USA,Female,51 - 55,part-time,sales,18,2019,vol_term,4,4,4,4,5,5,5,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4, ,4
+659,production,South America,Female,46 - 50,part-time,machine_ops,15,2019,vol_term,3,3,4,4,4,4,3,4,4,3,4,3,3,3,4,4,3,4,3,3,3,2,4,4,2,4,4
+660,sales,Europe,Female,41 - 45,part-time,sales,0,2019,vol_term,2,3,4, ,3,4,4,4,4,4,4,3,3,4,2,4,4,4,4,4,4,4,4,4,4,4,4
+661,production,South America,Female,46 - 50,full-time,machine_ops,4,2019,vol_term,1,3,4,1,4,4,4,4,4,2,4,1,1,1,2,4,4,4,3,3,3,3,4,4,3,3,1
+662,production,,Male,56 or older,full-time,machine_tech,20,2019,retired,2,1,1,1,2,1,1,4,2,1, ,3,2,2,4,1,1,1,2,1,2,2,1,4,4,1,1
+663,customer_service,South America,Female,21 - 25,part-time,service_worker,12,2019,contract_end,3,3,4,2,3,5,5,3,5,3,3,4,4,3,3,5,5,5,4,3,2,3,4,4,4,5,5
+664,customer_service,,Female,56 or older,full-time,service_worker,11,2019,retired,4,4,3,5,3,4,3,2,3,5,5,5,5,5,5,5,5,5,4,4,4,3,3,5,5,5,5
+665,production,Canada,,,,managerial,3,2019,vol_term, ,4,2,4,5,4,4,4,4,5,4,4,4,4,2,4,3,2,3,4,4,4,4,4,4,2,4
+666,customer_service,USA,,,,service_worker,21,2019,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+667,customer_service,USA,Female,56 or older,full-time,service_worker,0,2019,retired,4,3,4,4,3,4,4,4,5,5,5,5,4,4,4,5,4,4,4,4,4,4,4,5,5,4,4
+668,production,USA,Male,56 or older,full-time,machine_ops,21,2019,retired,2,4,4,5,3,4,4,5,3,5,4,5,5,4,3,5,5,4,4,4,4,4,3,5,5,3,3
+669,human_resources,USA,Female,26 - 30,part-time,professional,6,2019,vol_term,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+670,production,,,,,managerial,22,2019,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+671,human_resources,USA,Female,46 - 50,part-time,administrative,1,2019,vol_term,2,4,3,3,3,2,3,4,2,5,3,4,3,5,2,4,2,3,2,2,2,3,2,3,3,2,2
+672,human_resources,Europe,,,,administrative,9,2019,retired, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+673,sales,South America,Male,41 - 45,part-time,sales,0,2019,retired,1,3,5,3,4,4,1,1,4,5,5,4,4,5,1,5,4,2,2,2,2,1,3,5,5,5,4
+674,customer_service,,Female,51 - 55,part-time,service_worker,4,2019,retired, ,1,1, ,4,4,2,1,1,1, ,4,4,1,3,5,1,1,1, ,1,3,3,5,4,4,3
+675,human_resources,USA,Male,51 - 55,part-time,administrative,7,2019,vol_term, ,3,1,3,2,3,3,4,1,4,2,3,4,4,1,3,2,3,3,1,2,2,1,4,2,4,4
+676,production,Europe,Female,41 - 45,temp,machine_tech,4,2019,vol_term,3,4,5, ,3,4,4,1,4,4,4,3,4,4,1,5,5,4,1,3,3,1,3,4,5,4,4
+677,customer_service,,Female,36 - 40,part-time,service_worker,8,2019,vol_term,3,3,4,2,5,3,4,5,4,3,4,3,3,3,2,4,3,4,2,3,3,2,3,2,4,4,4
+678,production,South America,Male,51 - 55,full-time,managerial,15,2019,vol_term,3,4,4,4,3,4,4,3,3,4,4,3,3,4,4,5,4,5,4,4,4,4,4,4,4,4,4
+679,customer_service,Europe,Female,56 or older,part-time,service_worker,18,2019,vol_term,2,4,5,4,3,5,4,4,4,4,5,5,5,4,3,4,5,5,5,3,4,5,4,4,5,4,5
+680,production,South America,Male,41 - 45,full-time,managerial,9,2019,retired,4,4,3,4,3,4,4,2,3,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4
+681,human_resources,South America,Female,26 - 30,part-time,administrative,4,2019,vol_term,3,3,4,3,3,4,4,4,2,2,4,1,1,1,1,4,4,4,4,1,2,3,3,4,4,4,4
+682,customer_service,Canada,Female,26 - 30,part-time,service_worker,1,2019,vol_term,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+683,human_resources,Europe,Female,41 - 45,part-time,professional,13,2019,vol_term,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+684,customer_service,South America,Male,41 - 45,temp,service_worker,1,2019,vol_term,2,2,5,5,2,4,4,4,5,4,5,4,3,3,2,5,4,5,5,4,4,2,2,4,5,5,4
+685,human_resources,USA,Female,26 - 30,part-time,administrative,20,2019,vol_term,1, , , ,3, , ,3, ,2,1,1,1,3,2,4,2, , ,3,1, , ,3,3,4,3
+686,human_resources,Canada,Female,41 - 45,part-time,professional,5,2019,vol_term,2,4,4,3,3,4,3,1,4,3,3,2,2,2,5,4,4,4,4,2,1,4,4,4,2,5,4
+687,customer_service,Canada,Female,36 - 40,part-time,service_worker,15,2019,invol_term,2,3,3,4,2,3,3,2,2,4,3,3,3,3,2,4,3,3,2,5,4,3,3,4,3,5,4
+688,production,Canada,Female,46 - 50,part-time,machine_tech,23,2019,vol_term,4,4,5,3,4,4,3,4,4,4,4,4,4,4,2,5,4,4,4,4,3,4,4,3,4,4,4
+689,human_resources,Europe,Male,41 - 45,full-time,professional,17,2019,vol_term,2,3,3,3,3,3,3,4,2,3,3,2,1,3,3,5,5,4,3,2,2,3,3,4,2,2,2
+690,customer_service,Canada,,,,service_worker,11,2019,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+691,sales,Europe,Female,56 or older,part-time,sales,17,2019,vol_term,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,4,4,5,5,4,5,5,4,4,5
+692,sales,USA,,,,sales,9,2020,contract_end, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+693,customer_service,USA,Female,26 - 30,part-time,service_worker,5,2020,vol_term,2,4,4,4,3,4,3,3,3,4,5,5,5,4,2,5,5,5,2,3,4,2,4,4,3,3,3
+694,customer_service,Canada,,,,service_worker,3,2020,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+695,production,Europe,Female,56 or older,part-time,machine_ops,20,2020,contract_end,3,4,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,5
+696,R&D,,Male,21 - 25,part-time,professional,15,2020,vol_term, ,4,4,4,3,4,4,4,4,4,4,4,4,4,2,4,4,4,4,1,1,3,3,4,4,4,4
+697,R&D,South America,Male,51 - 55,part-time,professional,20,2020,vol_term,3,3,3,3,3,4,4,4,4,5,5,3,3,4,2,5,5,3,3,4,4,2,4,5,4,4,3
+698,sales,Canada,,,,sales,15,2020,vol_term, , , , , , , , , , , , , , , , , , , , , , , , , , , 
+699,customer_service,Europe,Female,51 - 55,full-time,service_worker,2,2020,vol_term,3,4,5,4,4,4,4,4,4,5,5,4,4,5,4,4,4,4,4,5,5,3,4,4,5,4,5
+700,production,Canada,Female,41 - 45,part-time,machine_ops,4,2020,contract_end,1,4,2,5,5,3,3,5,1,5,3,5,5,5,2,4,2,4,3,1,1,4,1,4,4,1,1
+701,human_resources,USA,Female,26 - 30,temp,professional,14,2020,vol_term,5,5,5,3,5,5,5,5,5,3,5,2,5,5,5,5,4,5,5,5,5,4,5,5,5,5,5
